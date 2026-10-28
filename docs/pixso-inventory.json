@@ -1,0 +1,5490 @@
+[
+  {
+    "id": "204:6407",
+    "name": "1_logIn",
+    "type": "FRAME",
+    "bounds": {
+      "x": -8390,
+      "y": -212,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 11,
+    "slug": "01_1_login",
+    "texts": [
+      {
+        "id": "I204:6409;2:152",
+        "text": "9:41"
+      },
+      {
+        "id": "I204:7379;2:1522",
+        "text": "Enter your phone"
+      },
+      {
+        "id": "I204:7379;2:1626",
+        "text": "+1"
+      },
+      {
+        "id": "I204:7379;2:1524",
+        "text": "Enter your phone"
+      },
+      {
+        "id": "I204:7380;2:1087",
+        "text": "OR"
+      },
+      {
+        "id": "I204:7382;2:7",
+        "text": "Continue With Google"
+      },
+      {
+        "id": "I204:7383;2:835",
+        "text": "Continue with Apple"
+      },
+      {
+        "id": "I204:7384;2:1125",
+        "text": "Don’t have an account? Sign Up"
+      },
+      {
+        "id": "204:7385",
+        "text": "Login to your account"
+      },
+      {
+        "id": "204:7386",
+        "text": "Welcome to deliver.io, enter your details below to continue ordering."
+      },
+      {
+        "id": "I204:7387;2:3",
+        "text": "Continue"
+      }
+    ]
+  },
+  {
+    "id": "204:7433",
+    "name": "1_logIn_enter Phone number",
+    "type": "FRAME",
+    "bounds": {
+      "x": -7951,
+      "y": -212,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 12,
+    "slug": "02_1_login_enter_phone_number",
+    "texts": [
+      {
+        "id": "I204:7435;2:152",
+        "text": "9:41"
+      },
+      {
+        "id": "I204:7439;2:1087",
+        "text": "OR"
+      },
+      {
+        "id": "I204:7441;2:7",
+        "text": "Continue With Google"
+      },
+      {
+        "id": "I204:7442;2:835",
+        "text": "Continue with Apple"
+      },
+      {
+        "id": "I204:7443;2:1125",
+        "text": "Don’t have an account? Sign Up"
+      },
+      {
+        "id": "I204:7515;2:559",
+        "text": "0"
+      },
+      {
+        "id": "I204:7515;2:562",
+        "text": "WXYZ"
+      },
+      {
+        "id": "I204:7515;2:563",
+        "text": "9"
+      },
+      {
+        "id": "I204:7515;2:566",
+        "text": "TUV"
+      },
+      {
+        "id": "I204:7515;2:567",
+        "text": "8"
+      },
+      {
+        "id": "I204:7515;2:570",
+        "text": "PQRS"
+      },
+      {
+        "id": "I204:7515;2:571",
+        "text": "7"
+      },
+      {
+        "id": "I204:7515;2:574",
+        "text": "MNO"
+      },
+      {
+        "id": "I204:7515;2:575",
+        "text": "6"
+      },
+      {
+        "id": "I204:7515;2:578",
+        "text": "JKL"
+      },
+      {
+        "id": "I204:7515;2:579",
+        "text": "5"
+      },
+      {
+        "id": "I204:7515;2:582",
+        "text": "GHI"
+      },
+      {
+        "id": "I204:7515;2:583",
+        "text": "4"
+      },
+      {
+        "id": "I204:7515;2:586",
+        "text": "DEF"
+      },
+      {
+        "id": "I204:7515;2:587",
+        "text": "3"
+      },
+      {
+        "id": "I204:7515;2:590",
+        "text": "ABC"
+      },
+      {
+        "id": "I204:7515;2:591",
+        "text": "2"
+      },
+      {
+        "id": "I204:7515;2:594",
+        "text": " "
+      },
+      {
+        "id": "I204:7515;2:595",
+        "text": "1"
+      },
+      {
+        "id": "I204:8351;2:1630",
+        "text": "Enter your phone"
+      },
+      {
+        "id": "I204:8351;2:1654",
+        "text": "+1"
+      },
+      {
+        "id": "I204:8351;2:1656",
+        "text": "212 507 1690"
+      },
+      {
+        "id": "204:8352",
+        "text": "Login to your account"
+      },
+      {
+        "id": "204:8353",
+        "text": "Welcome to deliver.io, enter your details below to continue ordering."
+      },
+      {
+        "id": "I204:8354;2:3",
+        "text": "Continue"
+      }
+    ]
+  },
+  {
+    "id": "204:8211",
+    "name": "2_Registration",
+    "type": "FRAME",
+    "bounds": {
+      "x": -8390,
+      "y": 664,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 11,
+    "slug": "03_2_registration",
+    "texts": [
+      {
+        "id": "I204:8213;2:152",
+        "text": "9:41"
+      },
+      {
+        "id": "I204:8297;2:1522",
+        "text": "Enter your phone"
+      },
+      {
+        "id": "I204:8297;2:1626",
+        "text": "+1"
+      },
+      {
+        "id": "I204:8297;2:1524",
+        "text": "Enter your phone"
+      },
+      {
+        "id": "I204:8298;2:1087",
+        "text": "OR"
+      },
+      {
+        "id": "204:8299",
+        "text": "Create an account"
+      },
+      {
+        "id": "204:8300",
+        "text": "Welcome friend, enter your details so lets get started in ordering food."
+      },
+      {
+        "id": "I204:8301;2:3",
+        "text": "Continue"
+      },
+      {
+        "id": "I204:8303;2:7",
+        "text": "Continue With Google"
+      },
+      {
+        "id": "I204:8304;2:835",
+        "text": "Continue with Apple"
+      },
+      {
+        "id": "I204:8305;2:1125",
+        "text": "Don’t have an account? Sign Up"
+      }
+    ]
+  },
+  {
+    "id": "204:6435",
+    "name": "2_Registration_Select country code",
+    "type": "FRAME",
+    "bounds": {
+      "x": -7951,
+      "y": 664,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 6,
+    "slug": "04_2_registration_select_country_code",
+    "texts": [
+      {
+        "id": "I204:6437;2:152",
+        "text": "9:41"
+      },
+      {
+        "id": "I204:6439;2:3790;2:3778",
+        "text": "Search"
+      },
+      {
+        "id": "I204:6439;2:3790;2:3780",
+        "text": "Cancel"
+      },
+      {
+        "id": "I204:6441;2:2545",
+        "text": "A"
+      },
+      {
+        "id": "I204:6442;19:100",
+        "text": "Afghanistan"
+      },
+      {
+        "id": "I204:6442;19:124",
+        "text": "+93"
+      },
+      {
+        "id": "I204:6443;19:100",
+        "text": "Albania"
+      },
+      {
+        "id": "I204:6443;19:124",
+        "text": "+355"
+      },
+      {
+        "id": "I204:6444;19:100",
+        "text": "Algeria"
+      },
+      {
+        "id": "I204:6444;19:124",
+        "text": "+213"
+      },
+      {
+        "id": "I204:6445;19:100",
+        "text": "America Samoa"
+      },
+      {
+        "id": "I204:6445;19:124",
+        "text": "+1684"
+      },
+      {
+        "id": "I204:6446;19:100",
+        "text": "Andorra"
+      },
+      {
+        "id": "I204:6446;19:124",
+        "text": "+376"
+      },
+      {
+        "id": "I204:6447;19:100",
+        "text": "Angola"
+      },
+      {
+        "id": "I204:6447;19:124",
+        "text": "+244"
+      },
+      {
+        "id": "I204:6448;19:100",
+        "text": "Anguilla"
+      },
+      {
+        "id": "I204:6448;19:124",
+        "text": "+1264"
+      },
+      {
+        "id": "I204:6449;19:100",
+        "text": "Title"
+      },
+      {
+        "id": "I204:6449;19:124",
+        "text": "Value"
+      },
+      {
+        "id": "I204:6450;2:631",
+        "text": "Go"
+      },
+      {
+        "id": "I204:6450;2:634",
+        "text": "space"
+      },
+      {
+        "id": "I204:6450;2:637",
+        "text": "123"
+      },
+      {
+        "id": "I204:6450;2:641",
+        "text": " "
+      },
+      {
+        "id": "I204:6450;2:654",
+        "text": " "
+      },
+      {
+        "id": "I204:6450;2:658",
+        "text": "M"
+      },
+      {
+        "id": "I204:6450;2:661",
+        "text": "N"
+      },
+      {
+        "id": "I204:6450;2:664",
+        "text": "B"
+      },
+      {
+        "id": "I204:6450;2:667",
+        "text": "V"
+      },
+      {
+        "id": "I204:6450;2:670",
+        "text": "C"
+      },
+      {
+        "id": "I204:6450;2:673",
+        "text": "X"
+      },
+      {
+        "id": "I204:6450;2:676",
+        "text": "Z"
+      },
+      {
+        "id": "I204:6450;2:679",
+        "text": "L"
+      },
+      {
+        "id": "I204:6450;2:682",
+        "text": "K"
+      },
+      {
+        "id": "I204:6450;2:685",
+        "text": "J"
+      },
+      {
+        "id": "I204:6450;2:688",
+        "text": "H"
+      },
+      {
+        "id": "I204:6450;2:691",
+        "text": "G"
+      },
+      {
+        "id": "I204:6450;2:694",
+        "text": "F"
+      },
+      {
+        "id": "I204:6450;2:697",
+        "text": "D"
+      },
+      {
+        "id": "I204:6450;2:700",
+        "text": "S"
+      },
+      {
+        "id": "I204:6450;2:703",
+        "text": "A"
+      },
+      {
+        "id": "I204:6450;2:706",
+        "text": "P"
+      },
+      {
+        "id": "I204:6450;2:709",
+        "text": "O"
+      },
+      {
+        "id": "I204:6450;2:712",
+        "text": "I"
+      },
+      {
+        "id": "I204:6450;2:715",
+        "text": "U"
+      },
+      {
+        "id": "I204:6450;2:718",
+        "text": "Y"
+      },
+      {
+        "id": "I204:6450;2:721",
+        "text": "T"
+      },
+      {
+        "id": "I204:6450;2:724",
+        "text": "R"
+      },
+      {
+        "id": "I204:6450;2:727",
+        "text": "E"
+      },
+      {
+        "id": "I204:6450;2:730",
+        "text": "W"
+      },
+      {
+        "id": "I204:6450;2:733",
+        "text": "Q"
+      }
+    ]
+  },
+  {
+    "id": "204:7715",
+    "name": "1_logIn_enter SMS Code",
+    "type": "FRAME",
+    "bounds": {
+      "x": -7526,
+      "y": -212,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 8,
+    "slug": "05_1_login_enter_sms_code",
+    "texts": [
+      {
+        "id": "I204:7717;2:152",
+        "text": "9:41"
+      },
+      {
+        "id": "I204:7911;2:559",
+        "text": "0"
+      },
+      {
+        "id": "I204:7911;2:562",
+        "text": "WXYZ"
+      },
+      {
+        "id": "I204:7911;2:563",
+        "text": "9"
+      },
+      {
+        "id": "I204:7911;2:566",
+        "text": "TUV"
+      },
+      {
+        "id": "I204:7911;2:567",
+        "text": "8"
+      },
+      {
+        "id": "I204:7911;2:570",
+        "text": "PQRS"
+      },
+      {
+        "id": "I204:7911;2:571",
+        "text": "7"
+      },
+      {
+        "id": "I204:7911;2:574",
+        "text": "MNO"
+      },
+      {
+        "id": "I204:7911;2:575",
+        "text": "6"
+      },
+      {
+        "id": "I204:7911;2:578",
+        "text": "JKL"
+      },
+      {
+        "id": "I204:7911;2:579",
+        "text": "5"
+      },
+      {
+        "id": "I204:7911;2:582",
+        "text": "GHI"
+      },
+      {
+        "id": "I204:7911;2:583",
+        "text": "4"
+      },
+      {
+        "id": "I204:7911;2:586",
+        "text": "DEF"
+      },
+      {
+        "id": "I204:7911;2:587",
+        "text": "3"
+      },
+      {
+        "id": "I204:7911;2:590",
+        "text": "ABC"
+      },
+      {
+        "id": "I204:7911;2:591",
+        "text": "2"
+      },
+      {
+        "id": "I204:7911;2:594",
+        "text": " "
+      },
+      {
+        "id": "I204:7911;2:595",
+        "text": "1"
+      },
+      {
+        "id": "I204:8029;2:1051",
+        "text": "SMS Code"
+      },
+      {
+        "id": "204:8030",
+        "text": "SMS code"
+      },
+      {
+        "id": "204:8031",
+        "text": "Enter varification code from SMS, which sent\nto +1 212 507 1690"
+      },
+      {
+        "id": "I204:8032;2:1125",
+        "text": "Resend code (2:29)"
+      }
+    ]
+  },
+  {
+    "id": "204:7724",
+    "name": "1_logIn_enter Error SMS Code",
+    "type": "FRAME",
+    "bounds": {
+      "x": -7087,
+      "y": -212,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 9,
+    "slug": "06_1_login_enter_error_sms_code",
+    "texts": [
+      {
+        "id": "I204:7726;2:152",
+        "text": "9:41"
+      },
+      {
+        "id": "I204:7970;2:559",
+        "text": "0"
+      },
+      {
+        "id": "I204:7970;2:562",
+        "text": "WXYZ"
+      },
+      {
+        "id": "I204:7970;2:563",
+        "text": "9"
+      },
+      {
+        "id": "I204:7970;2:566",
+        "text": "TUV"
+      },
+      {
+        "id": "I204:7970;2:567",
+        "text": "8"
+      },
+      {
+        "id": "I204:7970;2:570",
+        "text": "PQRS"
+      },
+      {
+        "id": "I204:7970;2:571",
+        "text": "7"
+      },
+      {
+        "id": "I204:7970;2:574",
+        "text": "MNO"
+      },
+      {
+        "id": "I204:7970;2:575",
+        "text": "6"
+      },
+      {
+        "id": "I204:7970;2:578",
+        "text": "JKL"
+      },
+      {
+        "id": "I204:7970;2:579",
+        "text": "5"
+      },
+      {
+        "id": "I204:7970;2:582",
+        "text": "GHI"
+      },
+      {
+        "id": "I204:7970;2:583",
+        "text": "4"
+      },
+      {
+        "id": "I204:7970;2:586",
+        "text": "DEF"
+      },
+      {
+        "id": "I204:7970;2:587",
+        "text": "3"
+      },
+      {
+        "id": "I204:7970;2:590",
+        "text": "ABC"
+      },
+      {
+        "id": "I204:7970;2:591",
+        "text": "2"
+      },
+      {
+        "id": "I204:7970;2:594",
+        "text": " "
+      },
+      {
+        "id": "I204:7970;2:595",
+        "text": "1"
+      },
+      {
+        "id": "I204:8195;2:1051",
+        "text": "SMS Code"
+      },
+      {
+        "id": "204:8196",
+        "text": "SMS code"
+      },
+      {
+        "id": "204:8197",
+        "text": "Enter varification code from SMS, which sent\nto +1 212 507 1690"
+      },
+      {
+        "id": "I204:8198;11:57",
+        "text": "The code was entered incorrectly"
+      },
+      {
+        "id": "I204:8199;2:1125",
+        "text": "Resend code (2:29)"
+      }
+    ]
+  },
+  {
+    "id": "204:6485",
+    "name": "2_Onboarding1",
+    "type": "FRAME",
+    "bounds": {
+      "x": -8390,
+      "y": 1530,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 11,
+    "slug": "07_2_onboarding1",
+    "texts": [
+      {
+        "id": "I204:6491;2:152",
+        "text": "9:41"
+      },
+      {
+        "id": "204:6492",
+        "text": "Order from your favourite\nstores or vendors"
+      },
+      {
+        "id": "I204:6493;2:3",
+        "text": "Continue"
+      },
+      {
+        "id": "I204:6494;2:1125",
+        "text": "Skip"
+      }
+    ]
+  },
+  {
+    "id": "204:6526",
+    "name": "2_Onboarding2",
+    "type": "FRAME",
+    "bounds": {
+      "x": -7951,
+      "y": 1530,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 11,
+    "slug": "08_2_onboarding2",
+    "texts": [
+      {
+        "id": "I204:6561;2:152",
+        "text": "9:41"
+      },
+      {
+        "id": "204:6562",
+        "text": "Choose from a wide range of  delicious meals"
+      },
+      {
+        "id": "I204:6563;2:3",
+        "text": "Continue"
+      },
+      {
+        "id": "I204:6564;2:1125",
+        "text": "Skip"
+      }
+    ]
+  },
+  {
+    "id": "204:6567",
+    "name": "2_Onboarding3",
+    "type": "FRAME",
+    "bounds": {
+      "x": -7512,
+      "y": 1530,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 10,
+    "slug": "09_2_onboarding3",
+    "texts": [
+      {
+        "id": "I204:6572;2:152",
+        "text": "9:41"
+      },
+      {
+        "id": "204:6573",
+        "text": "Enjoy instant delivery\nand payment"
+      },
+      {
+        "id": "I204:6574;2:3",
+        "text": "Continue"
+      },
+      {
+        "id": "I204:6575;2:1125",
+        "text": "Skip"
+      }
+    ]
+  },
+  {
+    "id": "23:0",
+    "name": "Home screen",
+    "type": "FRAME",
+    "bounds": {
+      "x": -5873,
+      "y": -212,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 3,
+    "slug": "10_home_screen",
+    "texts": [
+      {
+        "id": "I23:1190;23:1326",
+        "text": "Deliver to"
+      },
+      {
+        "id": "I23:1190;23:1327",
+        "text": "3517 W. Gray St. Utica, Pennsylvania 57..."
+      },
+      {
+        "id": "I23:1141;2:3790;2:3772",
+        "text": "Search"
+      },
+      {
+        "id": "I23:1637;23:1597",
+        "text": "Pizza"
+      },
+      {
+        "id": "I23:1638;23:1597",
+        "text": "Sushi"
+      },
+      {
+        "id": "I23:1639;23:1597",
+        "text": "Barbecue"
+      },
+      {
+        "id": "I23:1640;23:1597",
+        "text": "Burger"
+      },
+      {
+        "id": "I23:1642;23:1597",
+        "text": "Rolls"
+      },
+      {
+        "id": "I23:1643;23:1597",
+        "text": "Donut"
+      },
+      {
+        "id": "I23:1644;23:1597",
+        "text": "Steak"
+      },
+      {
+        "id": "I23:1645;23:1597",
+        "text": "Pasta"
+      },
+      {
+        "id": "I23:1660;2:2549",
+        "text": "Restaurants"
+      },
+      {
+        "id": "I23:1660;2:2550",
+        "text": "See more"
+      },
+      {
+        "id": "I24:1168;39:1678;23:1607",
+        "text": "Free delivery"
+      },
+      {
+        "id": "I24:1168;39:1664;24:1117",
+        "text": "Friendly's"
+      },
+      {
+        "id": "I24:1168;39:1664;24:1120",
+        "text": "4.5"
+      },
+      {
+        "id": "I24:1168;39:1664;24:1115",
+        "text": "1.3 KM ~ 30 min"
+      },
+      {
+        "id": "I24:1184;24:1126;24:1143",
+        "text": "Planet Hollywood"
+      },
+      {
+        "id": "I24:1184;24:1126;24:1146",
+        "text": "4.3"
+      },
+      {
+        "id": "I24:1184;24:1126;24:1147",
+        "text": "4140 Parker Rd. Allento..."
+      },
+      {
+        "id": "I24:1184;24:1126;24:1153",
+        "text": "Open at 10:00 AM"
+      },
+      {
+        "id": "I23:973;2:152",
+        "text": "9:41"
+      },
+      {
+        "id": "I38:445;38:350;37:36",
+        "text": "Home"
+      },
+      {
+        "id": "I38:445;38:351;37:47",
+        "text": "Сart"
+      },
+      {
+        "id": "I38:445;38:374;37:47",
+        "text": "Search"
+      },
+      {
+        "id": "I38:445;38:352;37:47",
+        "text": "Profile"
+      }
+    ]
+  },
+  {
+    "id": "67:0",
+    "name": "Find Restaurants near you",
+    "type": "FRAME",
+    "bounds": {
+      "x": -6312,
+      "y": -212,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 14,
+    "slug": "11_find_restaurants_near_you",
+    "texts": [
+      {
+        "id": "I67:2;23:1326",
+        "text": "Deliver to"
+      },
+      {
+        "id": "I67:2;23:1327",
+        "text": "3517 W. Gray St. Utica, Pennsylvania 57..."
+      },
+      {
+        "id": "I67:3;2:3790;2:3772",
+        "text": "Search"
+      },
+      {
+        "id": "I67:7;23:1597",
+        "text": "Pizza"
+      },
+      {
+        "id": "I67:8;23:1597",
+        "text": "Sushi"
+      },
+      {
+        "id": "I67:9;23:1597",
+        "text": "Barbecue"
+      },
+      {
+        "id": "I67:10;23:1597",
+        "text": "Burger"
+      },
+      {
+        "id": "I67:12;23:1597",
+        "text": "Rolls"
+      },
+      {
+        "id": "I67:13;23:1597",
+        "text": "Donut"
+      },
+      {
+        "id": "I67:14;23:1597",
+        "text": "Steak"
+      },
+      {
+        "id": "I67:15;23:1597",
+        "text": "Pasta"
+      },
+      {
+        "id": "I67:18;2:2549",
+        "text": "Restaurants"
+      },
+      {
+        "id": "I67:18;2:2550",
+        "text": "See more"
+      },
+      {
+        "id": "I67:20;39:1678;23:1607",
+        "text": "Free delivery"
+      },
+      {
+        "id": "I67:20;39:1664;24:1117",
+        "text": "Friendly's"
+      },
+      {
+        "id": "I67:20;39:1664;24:1120",
+        "text": "4.5"
+      },
+      {
+        "id": "I67:20;39:1664;24:1115",
+        "text": "1901 Thornridge Cir. Shiloh, Hawaii 81063"
+      },
+      {
+        "id": "I67:22;24:1126;24:1143",
+        "text": "Planet Hollywood"
+      },
+      {
+        "id": "I67:22;24:1126;24:1146",
+        "text": "4.3"
+      },
+      {
+        "id": "I67:22;24:1126;24:1147",
+        "text": "4140 Parker Rd. Allento..."
+      },
+      {
+        "id": "I67:22;24:1126;24:1153",
+        "text": "Open at 10:00 AM"
+      },
+      {
+        "id": "I67:23;2:152",
+        "text": "9:41"
+      },
+      {
+        "id": "I67:24;38:350;37:36",
+        "text": "Home"
+      },
+      {
+        "id": "I67:24;38:351;37:47",
+        "text": "Сart"
+      },
+      {
+        "id": "I67:24;38:374;37:47",
+        "text": "Search"
+      },
+      {
+        "id": "I67:24;38:352;37:47",
+        "text": "Profile"
+      },
+      {
+        "id": "I67:159;2:152",
+        "text": "9:41"
+      },
+      {
+        "id": "I67:416;2:2755",
+        "text": "Your location"
+      },
+      {
+        "id": "I67:186;2:631",
+        "text": "Go"
+      },
+      {
+        "id": "I67:186;2:634",
+        "text": "space"
+      },
+      {
+        "id": "I67:186;2:637",
+        "text": "123"
+      },
+      {
+        "id": "I67:186;2:641",
+        "text": " "
+      },
+      {
+        "id": "I67:186;2:654",
+        "text": " "
+      },
+      {
+        "id": "I67:186;2:658",
+        "text": "M"
+      },
+      {
+        "id": "I67:186;2:661",
+        "text": "N"
+      },
+      {
+        "id": "I67:186;2:664",
+        "text": "B"
+      },
+      {
+        "id": "I67:186;2:667",
+        "text": "V"
+      },
+      {
+        "id": "I67:186;2:670",
+        "text": "C"
+      },
+      {
+        "id": "I67:186;2:673",
+        "text": "X"
+      },
+      {
+        "id": "I67:186;2:676",
+        "text": "Z"
+      },
+      {
+        "id": "I67:186;2:679",
+        "text": "L"
+      },
+      {
+        "id": "I67:186;2:682",
+        "text": "K"
+      },
+      {
+        "id": "I67:186;2:685",
+        "text": "J"
+      },
+      {
+        "id": "I67:186;2:688",
+        "text": "H"
+      },
+      {
+        "id": "I67:186;2:691",
+        "text": "G"
+      },
+      {
+        "id": "I67:186;2:694",
+        "text": "F"
+      },
+      {
+        "id": "I67:186;2:697",
+        "text": "D"
+      },
+      {
+        "id": "I67:186;2:700",
+        "text": "S"
+      },
+      {
+        "id": "I67:186;2:703",
+        "text": "A"
+      },
+      {
+        "id": "I67:186;2:706",
+        "text": "P"
+      },
+      {
+        "id": "I67:186;2:709",
+        "text": "O"
+      },
+      {
+        "id": "I67:186;2:712",
+        "text": "I"
+      },
+      {
+        "id": "I67:186;2:715",
+        "text": "U"
+      },
+      {
+        "id": "I67:186;2:718",
+        "text": "Y"
+      },
+      {
+        "id": "I67:186;2:721",
+        "text": "T"
+      },
+      {
+        "id": "I67:186;2:724",
+        "text": "R"
+      },
+      {
+        "id": "I67:186;2:727",
+        "text": "E"
+      },
+      {
+        "id": "I67:186;2:730",
+        "text": "W"
+      },
+      {
+        "id": "I67:186;2:733",
+        "text": "Q"
+      },
+      {
+        "id": "I67:314;2:3790;2:3766",
+        "text": "San frans"
+      },
+      {
+        "id": "67:421",
+        "text": "Find restaurants near you"
+      },
+      {
+        "id": "67:422",
+        "text": "Please enter your location or allow access to your location to find restaurants near you"
+      },
+      {
+        "id": "I68:3731;59:147",
+        "text": "San Francisco"
+      },
+      {
+        "id": "I68:3731;59:187",
+        "text": "California"
+      },
+      {
+        "id": "I68:3747;59:147",
+        "text": "San Francisco"
+      },
+      {
+        "id": "I68:3747;59:187",
+        "text": "Cordoba"
+      },
+      {
+        "id": "I68:3739;59:147",
+        "text": "San Francisco City Hall"
+      },
+      {
+        "id": "I68:3739;59:187",
+        "text": "Doctor Carlton B"
+      }
+    ]
+  },
+  {
+    "id": "25:298",
+    "name": "Full Home screen",
+    "type": "FRAME",
+    "bounds": {
+      "x": -5434,
+      "y": -212,
+      "width": 375,
+      "height": 2164
+    },
+    "parentId": "0:1",
+    "childCount": 3,
+    "slug": "12_full_home_screen",
+    "texts": [
+      {
+        "id": "I25:302;23:1326",
+        "text": "Deliver to"
+      },
+      {
+        "id": "I25:302;23:1327",
+        "text": "3517 W. Gray St. Utica, Pennsylvania 57..."
+      },
+      {
+        "id": "I25:303;2:3790;2:3772",
+        "text": "Search"
+      },
+      {
+        "id": "I25:307;23:1597",
+        "text": "Pizza"
+      },
+      {
+        "id": "I25:308;23:1597",
+        "text": "Sushi"
+      },
+      {
+        "id": "I25:309;23:1597",
+        "text": "Barbecue"
+      },
+      {
+        "id": "I25:310;23:1597",
+        "text": "Burger"
+      },
+      {
+        "id": "I25:312;23:1597",
+        "text": "Rolls"
+      },
+      {
+        "id": "I25:313;23:1597",
+        "text": "Donut"
+      },
+      {
+        "id": "I25:314;23:1597",
+        "text": "Steak"
+      },
+      {
+        "id": "I25:315;23:1597",
+        "text": "Pasta"
+      },
+      {
+        "id": "I25:318;2:2549",
+        "text": "Restaurants"
+      },
+      {
+        "id": "I25:318;2:2550",
+        "text": "See more"
+      },
+      {
+        "id": "I25:320;39:1678;23:1607",
+        "text": "Free delivery"
+      },
+      {
+        "id": "I25:320;39:1664;24:1117",
+        "text": "Friendly's"
+      },
+      {
+        "id": "I25:320;39:1664;24:1120",
+        "text": "4.5"
+      },
+      {
+        "id": "I25:320;39:1664;24:1115",
+        "text": "1.3 KM ~ 30 min"
+      },
+      {
+        "id": "I25:322;24:1126;24:1143",
+        "text": "Planet Hollywood"
+      },
+      {
+        "id": "I25:322;24:1126;24:1146",
+        "text": "4.3"
+      },
+      {
+        "id": "I25:322;24:1126;24:1147",
+        "text": "1.5 KM ~ 40 min"
+      },
+      {
+        "id": "I25:322;24:1126;24:1153",
+        "text": "Open at 10:00 AM"
+      },
+      {
+        "id": "I25:443;24:1126;24:1117",
+        "text": "LongHorn Steakhouse"
+      },
+      {
+        "id": "I25:443;24:1126;24:1120",
+        "text": "4.5"
+      },
+      {
+        "id": "I25:443;24:1126;24:1115",
+        "text": "0.9 KM ~ 18 min"
+      },
+      {
+        "id": "I38:507;2:2549",
+        "text": "Popular"
+      },
+      {
+        "id": "I38:507;2:2550",
+        "text": "See more"
+      },
+      {
+        "id": "I38:768;48:2655;48:2650",
+        "text": "Grilled pork ribs barbecue "
+      },
+      {
+        "id": "I38:768;48:2655;48:2651",
+        "text": "210 g"
+      },
+      {
+        "id": "I38:768;48:2655;48:2652;39:1484",
+        "text": "$20"
+      },
+      {
+        "id": "I38:769;48:2655;48:2650",
+        "text": "Viennese pork schnitzel "
+      },
+      {
+        "id": "I38:769;48:2655;48:2651",
+        "text": "250 g"
+      },
+      {
+        "id": "I38:769;48:2655;48:2652;39:1484",
+        "text": "$25"
+      },
+      {
+        "id": "I39:1604;2:2549",
+        "text": "Best restaurants"
+      },
+      {
+        "id": "I39:1604;2:2550",
+        "text": "See more"
+      },
+      {
+        "id": "I39:1609;24:1126;24:1117",
+        "text": "Scores"
+      },
+      {
+        "id": "I39:1609;24:1126;24:1120",
+        "text": "5"
+      },
+      {
+        "id": "I39:1609;24:1126;24:1115",
+        "text": "1.3 KM ~ 30 min"
+      },
+      {
+        "id": "I39:1610;24:1126;24:1143",
+        "text": "Charlie Brown's Steakhouse"
+      },
+      {
+        "id": "I39:1610;24:1126;24:1146",
+        "text": "4.9"
+      },
+      {
+        "id": "I39:1610;24:1126;24:1147",
+        "text": "1.5 KM ~ 40 min"
+      },
+      {
+        "id": "I39:1610;24:1126;24:1153",
+        "text": "Open at 10:00 AM"
+      },
+      {
+        "id": "I39:1611;39:1678;23:1607",
+        "text": "Free delivery"
+      },
+      {
+        "id": "I39:1611;39:1664;24:1117",
+        "text": "Red Robin"
+      },
+      {
+        "id": "I39:1611;39:1664;24:1120",
+        "text": "4.8"
+      },
+      {
+        "id": "I39:1611;39:1664;24:1115",
+        "text": "0.9 KM ~ 18 min"
+      },
+      {
+        "id": "I25:299;2:152",
+        "text": "9:41"
+      },
+      {
+        "id": "I38:714;38:350;37:36",
+        "text": "Home"
+      },
+      {
+        "id": "I38:714;38:351;37:47",
+        "text": "Сart"
+      },
+      {
+        "id": "I38:714;38:374;37:47",
+        "text": "Search"
+      },
+      {
+        "id": "I38:714;38:352;37:47",
+        "text": "Profile"
+      }
+    ]
+  },
+  {
+    "id": "39:1728",
+    "name": "popular",
+    "type": "FRAME",
+    "bounds": {
+      "x": -4995,
+      "y": -212,
+      "width": 375,
+      "height": 1492
+    },
+    "parentId": "0:1",
+    "childCount": 2,
+    "slug": "13_popular",
+    "texts": [
+      {
+        "id": "I40:12;2:152",
+        "text": "9:41"
+      },
+      {
+        "id": "I40:0;2:2755",
+        "text": "Popular"
+      },
+      {
+        "id": "I40:52;2:2547",
+        "text": "Food"
+      },
+      {
+        "id": "I40:63;48:2655;48:2650",
+        "text": "Grilled pork ribs barbecue "
+      },
+      {
+        "id": "I40:63;48:2655;48:2651",
+        "text": "210 g"
+      },
+      {
+        "id": "I40:63;48:2655;48:2652;39:1484",
+        "text": "$25"
+      },
+      {
+        "id": "I40:64;48:2655;48:2650",
+        "text": "Commander's grilled squid"
+      },
+      {
+        "id": "I40:64;48:2655;48:2651",
+        "text": "200 g"
+      },
+      {
+        "id": "I40:64;48:2655;48:2652;39:1484",
+        "text": "$40"
+      },
+      {
+        "id": "I40:105;48:2655;48:2650",
+        "text": "Salmon fillet\n"
+      },
+      {
+        "id": "I40:105;48:2655;48:2651",
+        "text": "320 g"
+      },
+      {
+        "id": "I40:105;48:2655;48:2652;39:1484",
+        "text": "$32"
+      },
+      {
+        "id": "I40:106;48:2655;48:2650",
+        "text": "Salad with roasted beef"
+      },
+      {
+        "id": "I40:106;48:2655;48:2651",
+        "text": "350 g"
+      },
+      {
+        "id": "I40:106;48:2655;48:2652;39:1484",
+        "text": "$20"
+      },
+      {
+        "id": "I40:125;2:2547",
+        "text": "Restaurants"
+      },
+      {
+        "id": "I40:128;24:1126;24:1117",
+        "text": "Scores"
+      },
+      {
+        "id": "I40:128;24:1126;24:1120",
+        "text": "5"
+      },
+      {
+        "id": "I40:128;24:1126;24:1115",
+        "text": "1.3 KM ~ 30 min"
+      },
+      {
+        "id": "I40:129;24:1126;24:1143",
+        "text": "Charlie Brown's Steakhouse"
+      },
+      {
+        "id": "I40:129;24:1126;24:1146",
+        "text": "4.9"
+      },
+      {
+        "id": "I40:129;24:1126;24:1147",
+        "text": "1.5 KM ~ 40 min"
+      },
+      {
+        "id": "I40:129;24:1126;24:1153",
+        "text": "Open at 10:00 AM"
+      },
+      {
+        "id": "I40:130;39:1678;23:1607",
+        "text": "Free delivery"
+      },
+      {
+        "id": "I40:130;39:1664;24:1117",
+        "text": "Red Robin"
+      },
+      {
+        "id": "I40:130;39:1664;24:1120",
+        "text": "4.8"
+      },
+      {
+        "id": "I40:130;39:1664;24:1115",
+        "text": "0.9 KM ~ 18 min"
+      },
+      {
+        "id": "I40:174;38:350;37:36",
+        "text": "Home"
+      },
+      {
+        "id": "I40:174;38:351;37:47",
+        "text": "Сart"
+      },
+      {
+        "id": "I40:174;38:374;37:47",
+        "text": "Search"
+      },
+      {
+        "id": "I40:174;38:352;37:47",
+        "text": "Profile"
+      }
+    ]
+  },
+  {
+    "id": "39:1729",
+    "name": "My Orders Empty Screen",
+    "type": "FRAME",
+    "bounds": {
+      "x": -3342,
+      "y": -212,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 8,
+    "slug": "14_my_orders_empty_screen",
+    "texts": [
+      {
+        "id": "I40:270;2:152",
+        "text": "9:41"
+      },
+      {
+        "id": "I40:665;2:2755",
+        "text": "My orders"
+      },
+      {
+        "id": "I47:28;47:21",
+        "text": "Active"
+      },
+      {
+        "id": "I47:28;47:26",
+        "text": "History"
+      },
+      {
+        "id": "I48:2010;2:3",
+        "text": "Order Now"
+      },
+      {
+        "id": "48:2012",
+        "text": "But you can quickly order a lot \nof delicious food"
+      },
+      {
+        "id": "48:2009",
+        "text": "You don’t have any orders"
+      },
+      {
+        "id": "I40:222;38:350;37:47",
+        "text": "Home"
+      },
+      {
+        "id": "I40:222;38:351;37:36",
+        "text": "Сart"
+      },
+      {
+        "id": "I40:222;38:374;37:47",
+        "text": "Search"
+      },
+      {
+        "id": "I40:222;38:352;37:47",
+        "text": "Profile"
+      }
+    ]
+  },
+  {
+    "id": "39:1730",
+    "name": "My Orders History",
+    "type": "FRAME",
+    "bounds": {
+      "x": -2903,
+      "y": -212,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 3,
+    "slug": "15_my_orders_history",
+    "texts": [
+      {
+        "id": "I40:292;2:152",
+        "text": "9:41"
+      },
+      {
+        "id": "I48:2067;2:2755",
+        "text": "My orders"
+      },
+      {
+        "id": "I48:2061;48:2077",
+        "text": "Active"
+      },
+      {
+        "id": "I48:2061;48:2075",
+        "text": "History"
+      },
+      {
+        "id": "I48:2883;48:2824;48:2822",
+        "text": "Friendly's"
+      },
+      {
+        "id": "I48:2883;48:2824;48:2820",
+        "text": "Deliverd • 22 may"
+      },
+      {
+        "id": "I48:2883;48:2812;19:109",
+        "text": "Viennese pork schnitzel"
+      },
+      {
+        "id": "I48:2883;48:2812;19:125",
+        "text": "$25"
+      },
+      {
+        "id": "I48:2883;48:2816;19:109",
+        "text": "Grilled Beef tenderloin"
+      },
+      {
+        "id": "I48:2883;48:2816;19:125",
+        "text": "$18"
+      },
+      {
+        "id": "I48:2883;48:2833;19:109",
+        "text": "Total"
+      },
+      {
+        "id": "I48:2883;48:2833;19:125",
+        "text": "$43"
+      },
+      {
+        "id": "I48:2883;48:2851;39:1484",
+        "text": "Re-order"
+      },
+      {
+        "id": "I48:2901;48:2824;48:2822",
+        "text": "Friendly's"
+      },
+      {
+        "id": "I48:2901;48:2824;48:2820",
+        "text": "Canceled • 16 may"
+      },
+      {
+        "id": "I48:2901;48:2812;19:109",
+        "text": "Asian style Chicken"
+      },
+      {
+        "id": "I48:2901;48:2812;19:125",
+        "text": "$25"
+      },
+      {
+        "id": "I48:2901;48:2816;19:109",
+        "text": "Chopped steak"
+      },
+      {
+        "id": "I48:2901;48:2816;19:125",
+        "text": "$20"
+      },
+      {
+        "id": "I48:2901;48:2920;19:109",
+        "text": "Chocolate brownie"
+      },
+      {
+        "id": "I48:2901;48:2920;19:125",
+        "text": "$16"
+      },
+      {
+        "id": "I48:2901;48:2833;19:109",
+        "text": "Total"
+      },
+      {
+        "id": "I48:2901;48:2833;19:125",
+        "text": "$61"
+      },
+      {
+        "id": "I48:2901;48:2851;39:1484",
+        "text": "Re-order"
+      },
+      {
+        "id": "I48:2013;38:350;37:47",
+        "text": "Home"
+      },
+      {
+        "id": "I48:2013;38:351;37:36",
+        "text": "Сart"
+      },
+      {
+        "id": "I48:2013;38:374;37:47",
+        "text": "Search"
+      },
+      {
+        "id": "I48:2013;38:352;37:47",
+        "text": "Profile"
+      }
+    ]
+  },
+  {
+    "id": "39:1731",
+    "name": "My Orders Active Full",
+    "type": "FRAME",
+    "bounds": {
+      "x": -2464,
+      "y": -212,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 3,
+    "slug": "16_my_orders_active_full",
+    "texts": [
+      {
+        "id": "I40:314;2:152",
+        "text": "9:41"
+      },
+      {
+        "id": "I48:3094;2:2755",
+        "text": "My orders"
+      },
+      {
+        "id": "I48:3095;47:21",
+        "text": "Active"
+      },
+      {
+        "id": "I48:3095;47:26",
+        "text": "History"
+      },
+      {
+        "id": "I48:3097;48:2824;48:2822",
+        "text": "Friendly's"
+      },
+      {
+        "id": "I48:3097;48:2824;48:2820",
+        "text": "Complete the order"
+      },
+      {
+        "id": "I48:3097;48:2812;19:109",
+        "text": "Viennese pork schnitzel"
+      },
+      {
+        "id": "I48:3097;48:2812;19:125",
+        "text": "$25"
+      },
+      {
+        "id": "I48:3097;48:2851;92:28",
+        "text": "To order"
+      },
+      {
+        "id": "I92:1;48:2824;48:2822",
+        "text": "Friendly's"
+      },
+      {
+        "id": "I92:1;48:2824;48:2820",
+        "text": "On the Way • 25 may"
+      },
+      {
+        "id": "I92:1;48:2812;19:109",
+        "text": "Viennese pork schnitzel"
+      },
+      {
+        "id": "I92:1;48:2812;19:125",
+        "text": "$25"
+      },
+      {
+        "id": "I92:1;48:2816;19:109",
+        "text": "Grilled Beef tenderloin"
+      },
+      {
+        "id": "I92:1;48:2816;19:125",
+        "text": "$18"
+      },
+      {
+        "id": "I92:1;48:2833;19:109",
+        "text": "Total"
+      },
+      {
+        "id": "I92:1;48:2833;19:125",
+        "text": "$43"
+      },
+      {
+        "id": "I92:1;48:2851;39:1484",
+        "text": "Track order"
+      },
+      {
+        "id": "I48:3163;38:350;37:47",
+        "text": "Home"
+      },
+      {
+        "id": "I48:3163;38:351;37:36",
+        "text": "Сart"
+      },
+      {
+        "id": "I48:3163;38:374;37:47",
+        "text": "Search"
+      },
+      {
+        "id": "I48:3163;38:352;37:47",
+        "text": "Profile"
+      }
+    ]
+  },
+  {
+    "id": "104:3697",
+    "name": "My Orders Active Full / a lot of dishes",
+    "type": "FRAME",
+    "bounds": {
+      "x": -2464,
+      "y": 664,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 3,
+    "slug": "17_my_orders_active_full_a_lot_of_dishes",
+    "texts": [
+      {
+        "id": "I104:3698;2:152",
+        "text": "9:41"
+      },
+      {
+        "id": "I104:3700;2:2755",
+        "text": "My orders"
+      },
+      {
+        "id": "I104:3701;47:21",
+        "text": "Active"
+      },
+      {
+        "id": "I104:3701;47:26",
+        "text": "History"
+      },
+      {
+        "id": "I104:3703;48:2824;48:2822",
+        "text": "Friendly's"
+      },
+      {
+        "id": "I104:3703;48:2824;48:2820",
+        "text": "Complete the order"
+      },
+      {
+        "id": "I104:3703;48:2812;19:109",
+        "text": "Classic ice cream with fillers"
+      },
+      {
+        "id": "I104:3703;48:2812;19:125",
+        "text": "$10"
+      },
+      {
+        "id": "I104:3703;48:2816;19:109",
+        "text": "Spezle carbonara"
+      },
+      {
+        "id": "I104:3703;48:2816;19:125",
+        "text": "$17"
+      },
+      {
+        "id": "I104:3703;48:2920;19:109",
+        "text": "Burger with chopped steak​"
+      },
+      {
+        "id": "I104:3703;48:2920;19:125",
+        "text": "$20"
+      },
+      {
+        "id": "I104:3703;48:2963;19:109",
+        "text": "Viennese pork schnitzel"
+      },
+      {
+        "id": "I104:3703;48:2963;19:125",
+        "text": "$25"
+      },
+      {
+        "id": "I104:3703;48:2851;92:28",
+        "text": "To order"
+      },
+      {
+        "id": "I104:3705;48:2824;48:2822",
+        "text": "Friendly's"
+      },
+      {
+        "id": "I104:3705;48:2824;48:2820",
+        "text": "On the Way • 25 may"
+      },
+      {
+        "id": "I104:3705;48:2812;19:109",
+        "text": "Viennese pork schnitzel"
+      },
+      {
+        "id": "I104:3705;48:2812;19:125",
+        "text": "$25"
+      },
+      {
+        "id": "I104:3705;48:2816;19:109",
+        "text": "Grilled Beef tenderloin"
+      },
+      {
+        "id": "I104:3705;48:2816;19:125",
+        "text": "$18"
+      },
+      {
+        "id": "I104:3705;48:2833;19:109",
+        "text": "Total"
+      },
+      {
+        "id": "I104:3705;48:2833;19:125",
+        "text": "$43"
+      },
+      {
+        "id": "I104:3705;48:2851;39:1484",
+        "text": "Track order"
+      },
+      {
+        "id": "I104:3706;38:350;37:47",
+        "text": "Home"
+      },
+      {
+        "id": "I104:3706;38:351;37:36",
+        "text": "Сart"
+      },
+      {
+        "id": "I104:3706;38:374;37:47",
+        "text": "Search"
+      },
+      {
+        "id": "I104:3706;38:352;37:47",
+        "text": "Profile"
+      }
+    ]
+  },
+  {
+    "id": "39:1732",
+    "name": "My Orders_Tracker Screen",
+    "type": "FRAME",
+    "bounds": {
+      "x": 170,
+      "y": -212,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 17,
+    "slug": "18_my_orders_tracker_screen",
+    "texts": [
+      {
+        "id": "I40:336;2:152",
+        "text": "9:41"
+      },
+      {
+        "id": "I59:315;59:147",
+        "text": "8 minutes"
+      },
+      {
+        "id": "I59:315;59:187",
+        "text": "Your delivery time"
+      },
+      {
+        "id": "I59:323;59:147",
+        "text": "3517 W. Gray St. Utica, Pennsylva..."
+      },
+      {
+        "id": "I59:323;59:187",
+        "text": "Your address"
+      },
+      {
+        "id": "I59:63;2:1125",
+        "text": "Call John"
+      },
+      {
+        "id": "I59:65;2:1125",
+        "text": "Support"
+      },
+      {
+        "id": "59:59",
+        "text": "Courier on the way"
+      },
+      {
+        "id": "59:60",
+        "text": "Courier John will arrive in 8 minutes"
+      }
+    ]
+  },
+  {
+    "id": "39:1733",
+    "name": "Rate food Screen",
+    "type": "FRAME",
+    "bounds": {
+      "x": 609,
+      "y": -212,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 13,
+    "slug": "19_rate_food_screen",
+    "texts": [
+      {
+        "id": "I59:1196;2:152",
+        "text": "9:41"
+      },
+      {
+        "id": "I59:1198;2:2755",
+        "text": "My orders"
+      },
+      {
+        "id": "I59:1199;47:21",
+        "text": "Active"
+      },
+      {
+        "id": "I59:1199;47:26",
+        "text": "History"
+      },
+      {
+        "id": "I59:1201;48:2824;48:2822",
+        "text": "Friendly's"
+      },
+      {
+        "id": "I59:1201;48:2824;48:2820",
+        "text": "On the Way • 25 may"
+      },
+      {
+        "id": "I59:1201;48:2812;19:109",
+        "text": "Viennese pork schnitzel"
+      },
+      {
+        "id": "I59:1201;48:2812;19:125",
+        "text": "$25"
+      },
+      {
+        "id": "I59:1201;48:2816;19:109",
+        "text": "Grilled Beef tenderloin"
+      },
+      {
+        "id": "I59:1201;48:2816;19:125",
+        "text": "$18"
+      },
+      {
+        "id": "I59:1201;48:2833;19:109",
+        "text": "Total"
+      },
+      {
+        "id": "I59:1201;48:2833;19:125",
+        "text": "$43"
+      },
+      {
+        "id": "I59:1201;48:2851;39:1484",
+        "text": "Track order"
+      },
+      {
+        "id": "I59:1203;38:350;37:47",
+        "text": "Home"
+      },
+      {
+        "id": "I59:1203;38:351;37:36",
+        "text": "Сart"
+      },
+      {
+        "id": "I59:1203;38:374;37:47",
+        "text": "Search"
+      },
+      {
+        "id": "I59:1203;38:352;37:47",
+        "text": "Profile"
+      },
+      {
+        "id": "I59:1899;2:1125",
+        "text": "Skip"
+      },
+      {
+        "id": "I59:1352;2:1071",
+        "text": "Fast delivery and great food, thank  for such a great restaurant!"
+      },
+      {
+        "id": "I59:1350;2:3",
+        "text": "Continue"
+      },
+      {
+        "id": "59:1349",
+        "text": "What do you think about the delivery and delicious food , share your opinion"
+      },
+      {
+        "id": "59:1317",
+        "text": "Rate this Restaurant"
+      },
+      {
+        "id": "I59:3193;2:152",
+        "text": "9:41"
+      }
+    ]
+  },
+  {
+    "id": "59:2891",
+    "name": "Rate food Screen / typing",
+    "type": "FRAME",
+    "bounds": {
+      "x": 609,
+      "y": 664,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 14,
+    "slug": "20_rate_food_screen_typing",
+    "texts": [
+      {
+        "id": "I59:2892;2:152",
+        "text": "9:41"
+      },
+      {
+        "id": "I59:2894;2:2755",
+        "text": "My orders"
+      },
+      {
+        "id": "I59:2895;47:21",
+        "text": "Active"
+      },
+      {
+        "id": "I59:2895;47:26",
+        "text": "History"
+      },
+      {
+        "id": "I59:2897;48:2824;48:2822",
+        "text": "Friendly's"
+      },
+      {
+        "id": "I59:2897;48:2824;48:2820",
+        "text": "On the Way • 25 may"
+      },
+      {
+        "id": "I59:2897;48:2812;19:109",
+        "text": "Viennese pork schnitzel"
+      },
+      {
+        "id": "I59:2897;48:2812;19:125",
+        "text": "$25"
+      },
+      {
+        "id": "I59:2897;48:2816;19:109",
+        "text": "Grilled Beef tenderloin"
+      },
+      {
+        "id": "I59:2897;48:2816;19:125",
+        "text": "$18"
+      },
+      {
+        "id": "I59:2897;48:2833;19:109",
+        "text": "Total"
+      },
+      {
+        "id": "I59:2897;48:2833;19:125",
+        "text": "$43"
+      },
+      {
+        "id": "I59:2897;48:2851;39:1484",
+        "text": "Track order"
+      },
+      {
+        "id": "I59:2899;38:350;37:47",
+        "text": "Home"
+      },
+      {
+        "id": "I59:2899;38:351;37:36",
+        "text": "Сart"
+      },
+      {
+        "id": "I59:2899;38:374;37:47",
+        "text": "Search"
+      },
+      {
+        "id": "I59:2899;38:352;37:47",
+        "text": "Profile"
+      },
+      {
+        "id": "I59:2902;2:1125",
+        "text": "Skip"
+      },
+      {
+        "id": "I59:2903;2:1071",
+        "text": "Fast delivery and great food, thank  for such a great restaurant!"
+      },
+      {
+        "id": "I59:2904;2:3",
+        "text": "Continue"
+      },
+      {
+        "id": "59:2905",
+        "text": "What do you think about the delivery and delicious food , share your opinion"
+      },
+      {
+        "id": "59:2912",
+        "text": "Rate this Restaurant"
+      },
+      {
+        "id": "I59:3043;2:631",
+        "text": "Go"
+      },
+      {
+        "id": "I59:3043;2:634",
+        "text": "space"
+      },
+      {
+        "id": "I59:3043;2:637",
+        "text": "123"
+      },
+      {
+        "id": "I59:3043;2:641",
+        "text": " "
+      },
+      {
+        "id": "I59:3043;2:654",
+        "text": " "
+      },
+      {
+        "id": "I59:3043;2:658",
+        "text": "M"
+      },
+      {
+        "id": "I59:3043;2:661",
+        "text": "N"
+      },
+      {
+        "id": "I59:3043;2:664",
+        "text": "B"
+      },
+      {
+        "id": "I59:3043;2:667",
+        "text": "V"
+      },
+      {
+        "id": "I59:3043;2:670",
+        "text": "C"
+      },
+      {
+        "id": "I59:3043;2:673",
+        "text": "X"
+      },
+      {
+        "id": "I59:3043;2:676",
+        "text": "Z"
+      },
+      {
+        "id": "I59:3043;2:679",
+        "text": "L"
+      },
+      {
+        "id": "I59:3043;2:682",
+        "text": "K"
+      },
+      {
+        "id": "I59:3043;2:685",
+        "text": "J"
+      },
+      {
+        "id": "I59:3043;2:688",
+        "text": "H"
+      },
+      {
+        "id": "I59:3043;2:691",
+        "text": "G"
+      },
+      {
+        "id": "I59:3043;2:694",
+        "text": "F"
+      },
+      {
+        "id": "I59:3043;2:697",
+        "text": "D"
+      },
+      {
+        "id": "I59:3043;2:700",
+        "text": "S"
+      },
+      {
+        "id": "I59:3043;2:703",
+        "text": "A"
+      },
+      {
+        "id": "I59:3043;2:706",
+        "text": "P"
+      },
+      {
+        "id": "I59:3043;2:709",
+        "text": "O"
+      },
+      {
+        "id": "I59:3043;2:712",
+        "text": "I"
+      },
+      {
+        "id": "I59:3043;2:715",
+        "text": "U"
+      },
+      {
+        "id": "I59:3043;2:718",
+        "text": "Y"
+      },
+      {
+        "id": "I59:3043;2:721",
+        "text": "T"
+      },
+      {
+        "id": "I59:3043;2:724",
+        "text": "R"
+      },
+      {
+        "id": "I59:3043;2:727",
+        "text": "E"
+      },
+      {
+        "id": "I59:3043;2:730",
+        "text": "W"
+      },
+      {
+        "id": "I59:3043;2:733",
+        "text": "Q"
+      },
+      {
+        "id": "I59:3171;2:152",
+        "text": "9:41"
+      }
+    ]
+  },
+  {
+    "id": "39:1734",
+    "name": "Notification settings",
+    "type": "FRAME",
+    "bounds": {
+      "x": 4801,
+      "y": -212,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 2,
+    "slug": "21_notification_settings",
+    "texts": [
+      {
+        "id": "I40:402;2:152",
+        "text": "9:41"
+      },
+      {
+        "id": "I78:82;2:2755",
+        "text": "Notifications"
+      },
+      {
+        "id": "I78:101;59:200",
+        "text": "Receive SMS-notifications"
+      },
+      {
+        "id": "I78:101;59:201",
+        "text": "News, promotions, discoun"
+      },
+      {
+        "id": "I78:113;59:200",
+        "text": "Receive Push-notification"
+      },
+      {
+        "id": "I78:113;59:201",
+        "text": "Order and delivery notifications"
+      },
+      {
+        "id": "I78:125;59:200",
+        "text": "Receive email newsletters"
+      },
+      {
+        "id": "I78:125;59:201",
+        "text": "News, promotions, discoun"
+      }
+    ]
+  },
+  {
+    "id": "75:3995",
+    "name": "Payment method empty",
+    "type": "FRAME",
+    "bounds": {
+      "x": 5248,
+      "y": -212,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 7,
+    "slug": "22_payment_method_empty",
+    "texts": [
+      {
+        "id": "I75:3996;2:152",
+        "text": "9:41"
+      },
+      {
+        "id": "I80:5768;2:2755",
+        "text": "Payment method"
+      },
+      {
+        "id": "80:5815",
+        "text": "Don’t have any card?"
+      },
+      {
+        "id": "80:5816",
+        "text": "It looks like you didn't link the card to our app, you can quickly add a new card"
+      },
+      {
+        "id": "I80:5817;2:3",
+        "text": "Add credit card"
+      }
+    ]
+  },
+  {
+    "id": "83:4552",
+    "name": "Payment method full",
+    "type": "FRAME",
+    "bounds": {
+      "x": 5248,
+      "y": 2416,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 2,
+    "slug": "23_payment_method_full",
+    "texts": [
+      {
+        "id": "I83:4553;2:152",
+        "text": "9:41"
+      },
+      {
+        "id": "I83:4554;2:2755",
+        "text": "Payment method"
+      },
+      {
+        "id": "I83:4554;2:2756;2:2781",
+        "text": "Edit"
+      },
+      {
+        "id": "I86:0;59:222",
+        "text": "Apple Pay"
+      },
+      {
+        "id": "I86:0;59:223",
+        "text": "Pay with Face ID"
+      },
+      {
+        "id": "I86:1;59:222",
+        "text": "MasterCard • 7488"
+      },
+      {
+        "id": "I86:1;59:223",
+        "text": "01/25"
+      },
+      {
+        "id": "I86:2;59:222",
+        "text": "MasterCard • 1235"
+      },
+      {
+        "id": "I86:2;59:223",
+        "text": "03/24"
+      },
+      {
+        "id": "I86:3;59:222",
+        "text": "Add credit card"
+      },
+      {
+        "id": "I86:3;59:223",
+        "text": "Add new credit or debit card"
+      }
+    ]
+  },
+  {
+    "id": "87:4717",
+    "name": "Payment method / Edit",
+    "type": "FRAME",
+    "bounds": {
+      "x": 5248,
+      "y": 3292,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 2,
+    "slug": "24_payment_method_edit",
+    "texts": [
+      {
+        "id": "I87:4718;2:152",
+        "text": "9:41"
+      },
+      {
+        "id": "I87:4719;2:2754;2:2779",
+        "text": "Close"
+      },
+      {
+        "id": "I87:4719;2:2755",
+        "text": "Payment method"
+      },
+      {
+        "id": "I87:4719;2:2756;2:2783",
+        "text": "Save"
+      },
+      {
+        "id": "I87:4722;59:222",
+        "text": "MasterCard • 7488"
+      },
+      {
+        "id": "I87:4722;59:223",
+        "text": "01/25"
+      },
+      {
+        "id": "I87:4723;59:222",
+        "text": "MasterCard • 1235"
+      },
+      {
+        "id": "I87:4723;59:223",
+        "text": "03/24"
+      }
+    ]
+  },
+  {
+    "id": "82:4378",
+    "name": "Add credit card",
+    "type": "FRAME",
+    "bounds": {
+      "x": 5248,
+      "y": 664,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 8,
+    "slug": "25_add_credit_card",
+    "texts": [
+      {
+        "id": "I82:4379;2:152",
+        "text": "9:41"
+      },
+      {
+        "id": "I82:4380;2:2755",
+        "text": "Add credit card"
+      },
+      {
+        "id": "I82:4420;80:4365",
+        "text": "Card number"
+      },
+      {
+        "id": "I82:4420;80:4367",
+        "text": "5469 5400 1201 4567"
+      },
+      {
+        "id": "I82:4434;2:1067",
+        "text": "Validity period"
+      },
+      {
+        "id": "I82:4434;2:1069",
+        "text": "04 / 25"
+      },
+      {
+        "id": "I82:4451;2:1067",
+        "text": "CVV"
+      },
+      {
+        "id": "I82:4451;2:1069",
+        "text": "***"
+      },
+      {
+        "id": "I82:4468;2:559",
+        "text": "0"
+      },
+      {
+        "id": "I82:4468;2:562",
+        "text": "WXYZ"
+      },
+      {
+        "id": "I82:4468;2:563",
+        "text": "9"
+      },
+      {
+        "id": "I82:4468;2:566",
+        "text": "TUV"
+      },
+      {
+        "id": "I82:4468;2:567",
+        "text": "8"
+      },
+      {
+        "id": "I82:4468;2:570",
+        "text": "PQRS"
+      },
+      {
+        "id": "I82:4468;2:571",
+        "text": "7"
+      },
+      {
+        "id": "I82:4468;2:574",
+        "text": "MNO"
+      },
+      {
+        "id": "I82:4468;2:575",
+        "text": "6"
+      },
+      {
+        "id": "I82:4468;2:578",
+        "text": "JKL"
+      },
+      {
+        "id": "I82:4468;2:579",
+        "text": "5"
+      },
+      {
+        "id": "I82:4468;2:582",
+        "text": "GHI"
+      },
+      {
+        "id": "I82:4468;2:583",
+        "text": "4"
+      },
+      {
+        "id": "I82:4468;2:586",
+        "text": "DEF"
+      },
+      {
+        "id": "I82:4468;2:587",
+        "text": "3"
+      },
+      {
+        "id": "I82:4468;2:590",
+        "text": "ABC"
+      },
+      {
+        "id": "I82:4468;2:591",
+        "text": "2"
+      },
+      {
+        "id": "I82:4468;2:594",
+        "text": " "
+      },
+      {
+        "id": "I82:4468;2:595",
+        "text": "1"
+      },
+      {
+        "id": "I82:4549;2:3",
+        "text": "Save credit card"
+      },
+      {
+        "id": "I82:4551;2:835",
+        "text": "Apple pay "
+      }
+    ]
+  },
+  {
+    "id": "82:4563",
+    "name": "Scan your card",
+    "type": "FRAME",
+    "bounds": {
+      "x": 5248,
+      "y": 1540,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 10,
+    "slug": "26_scan_your_card",
+    "texts": [
+      {
+        "id": "I82:4564;2:152",
+        "text": "9:41"
+      },
+      {
+        "id": "I82:4707;2:152",
+        "text": "9:41"
+      },
+      {
+        "id": "82:4729",
+        "text": "Scan your card"
+      },
+      {
+        "id": "82:4730",
+        "text": "Keep the card inside the frame, it will be read automatically"
+      },
+      {
+        "id": "I82:4731;2:2755",
+        "text": "Scan"
+      }
+    ]
+  },
+  {
+    "id": "78:52",
+    "name": "Profile information",
+    "type": "FRAME",
+    "bounds": {
+      "x": 4354,
+      "y": -212,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 7,
+    "slug": "27_profile_information",
+    "texts": [
+      {
+        "id": "I78:53;2:152",
+        "text": "9:41"
+      },
+      {
+        "id": "I78:75;2:2755",
+        "text": "Profile"
+      },
+      {
+        "id": "I78:75;2:2756;2:2785",
+        "text": "Save"
+      },
+      {
+        "id": "I80:4063;2:1067",
+        "text": "Full name"
+      },
+      {
+        "id": "I80:4063;2:1069",
+        "text": "Nikita Ogurechnikov"
+      },
+      {
+        "id": "I80:4074;2:1067",
+        "text": "Email"
+      },
+      {
+        "id": "I80:4074;2:1069",
+        "text": "ogurechnikovn93@gmail.com"
+      },
+      {
+        "id": "I80:4600;2:1630",
+        "text": "Enter your phone"
+      },
+      {
+        "id": "I80:4600;2:1654",
+        "text": "+1"
+      },
+      {
+        "id": "I80:4600;2:1656",
+        "text": "212 507 1690"
+      }
+    ]
+  },
+  {
+    "id": "80:4307",
+    "name": "Profile information",
+    "type": "FRAME",
+    "bounds": {
+      "x": 4354,
+      "y": 664,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 8,
+    "slug": "28_profile_information",
+    "texts": [
+      {
+        "id": "I80:4308;2:152",
+        "text": "9:41"
+      },
+      {
+        "id": "I80:4309;2:2755",
+        "text": "Profile"
+      },
+      {
+        "id": "I80:4309;2:2756;2:2783",
+        "text": "Save"
+      },
+      {
+        "id": "I80:4310;2:1067",
+        "text": "Full name"
+      },
+      {
+        "id": "I80:4310;2:1069",
+        "text": "Nikita Ogurechnikov"
+      },
+      {
+        "id": "I80:4312;2:1067",
+        "text": "Email"
+      },
+      {
+        "id": "I80:4312;2:1069",
+        "text": "ogurechnikovn93@gmail.com"
+      },
+      {
+        "id": "I80:4541;2:559",
+        "text": "0"
+      },
+      {
+        "id": "I80:4541;2:562",
+        "text": "WXYZ"
+      },
+      {
+        "id": "I80:4541;2:563",
+        "text": "9"
+      },
+      {
+        "id": "I80:4541;2:566",
+        "text": "TUV"
+      },
+      {
+        "id": "I80:4541;2:567",
+        "text": "8"
+      },
+      {
+        "id": "I80:4541;2:570",
+        "text": "PQRS"
+      },
+      {
+        "id": "I80:4541;2:571",
+        "text": "7"
+      },
+      {
+        "id": "I80:4541;2:574",
+        "text": "MNO"
+      },
+      {
+        "id": "I80:4541;2:575",
+        "text": "6"
+      },
+      {
+        "id": "I80:4541;2:578",
+        "text": "JKL"
+      },
+      {
+        "id": "I80:4541;2:579",
+        "text": "5"
+      },
+      {
+        "id": "I80:4541;2:582",
+        "text": "GHI"
+      },
+      {
+        "id": "I80:4541;2:583",
+        "text": "4"
+      },
+      {
+        "id": "I80:4541;2:586",
+        "text": "DEF"
+      },
+      {
+        "id": "I80:4541;2:587",
+        "text": "3"
+      },
+      {
+        "id": "I80:4541;2:590",
+        "text": "ABC"
+      },
+      {
+        "id": "I80:4541;2:591",
+        "text": "2"
+      },
+      {
+        "id": "I80:4541;2:594",
+        "text": " "
+      },
+      {
+        "id": "I80:4541;2:595",
+        "text": "1"
+      },
+      {
+        "id": "I80:4676;80:4632",
+        "text": "Enter your phone"
+      },
+      {
+        "id": "I80:4676;80:4656",
+        "text": "+1"
+      },
+      {
+        "id": "I80:4676;80:4658",
+        "text": "212 507 1690"
+      }
+    ]
+  },
+  {
+    "id": "80:4171",
+    "name": "Profile information / change phone",
+    "type": "FRAME",
+    "bounds": {
+      "x": 4354,
+      "y": 1540,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 9,
+    "slug": "29_profile_information_change_phone",
+    "texts": [
+      {
+        "id": "I80:4172;2:152",
+        "text": "9:41"
+      },
+      {
+        "id": "I80:4173;2:2754;2:2777",
+        "text": "Back"
+      },
+      {
+        "id": "I80:4173;2:2755",
+        "text": "Profile information"
+      },
+      {
+        "id": "I80:4174;2:1067",
+        "text": "Full name"
+      },
+      {
+        "id": "I80:4174;2:1069",
+        "text": "Nikita Ogurechnikov"
+      },
+      {
+        "id": "I80:4175;2:1067",
+        "text": "Phone"
+      },
+      {
+        "id": "I80:4175;2:1069",
+        "text": "+1 212 507 1690"
+      },
+      {
+        "id": "I80:4176;2:1067",
+        "text": "Email"
+      },
+      {
+        "id": "I80:4176;2:1069",
+        "text": "ogurechnikovn93@gmail.com"
+      },
+      {
+        "id": "I80:4219;2:152",
+        "text": "9:41"
+      },
+      {
+        "id": "I80:4242;2:1051",
+        "text": "SMS Code"
+      },
+      {
+        "id": "80:4243",
+        "text": "SMS code"
+      },
+      {
+        "id": "80:4244",
+        "text": "Enter varification code from SMS, which sent\nto +1 212 507 1690. To change your current phone number"
+      },
+      {
+        "id": "I80:4245;2:559",
+        "text": "0"
+      },
+      {
+        "id": "I80:4245;2:562",
+        "text": "WXYZ"
+      },
+      {
+        "id": "I80:4245;2:563",
+        "text": "9"
+      },
+      {
+        "id": "I80:4245;2:566",
+        "text": "TUV"
+      },
+      {
+        "id": "I80:4245;2:567",
+        "text": "8"
+      },
+      {
+        "id": "I80:4245;2:570",
+        "text": "PQRS"
+      },
+      {
+        "id": "I80:4245;2:571",
+        "text": "7"
+      },
+      {
+        "id": "I80:4245;2:574",
+        "text": "MNO"
+      },
+      {
+        "id": "I80:4245;2:575",
+        "text": "6"
+      },
+      {
+        "id": "I80:4245;2:578",
+        "text": "JKL"
+      },
+      {
+        "id": "I80:4245;2:579",
+        "text": "5"
+      },
+      {
+        "id": "I80:4245;2:582",
+        "text": "GHI"
+      },
+      {
+        "id": "I80:4245;2:583",
+        "text": "4"
+      },
+      {
+        "id": "I80:4245;2:586",
+        "text": "DEF"
+      },
+      {
+        "id": "I80:4245;2:587",
+        "text": "3"
+      },
+      {
+        "id": "I80:4245;2:590",
+        "text": "ABC"
+      },
+      {
+        "id": "I80:4245;2:591",
+        "text": "2"
+      },
+      {
+        "id": "I80:4245;2:594",
+        "text": " "
+      },
+      {
+        "id": "I80:4245;2:595",
+        "text": "1"
+      },
+      {
+        "id": "I80:4246;2:1125",
+        "text": "Resend code (2:29)"
+      }
+    ]
+  },
+  {
+    "id": "75:4018",
+    "name": "Address",
+    "type": "FRAME",
+    "bounds": {
+      "x": 5687,
+      "y": -212,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 2,
+    "slug": "30_address",
+    "texts": [
+      {
+        "id": "I75:4019;2:152",
+        "text": "9:41"
+      },
+      {
+        "id": "I87:4827;2:2755",
+        "text": "Address"
+      },
+      {
+        "id": "I87:4843;59:222",
+        "text": "Home"
+      },
+      {
+        "id": "I87:4843;59:223",
+        "text": "3517 W. Gray St. Utica, Pennsylvani..."
+      },
+      {
+        "id": "I87:4849;59:222",
+        "text": "John Friend"
+      },
+      {
+        "id": "I87:4849;59:223",
+        "text": "6391 Elgin St. Celina, Delaware 102..."
+      },
+      {
+        "id": "I87:4855;59:222",
+        "text": "My job"
+      },
+      {
+        "id": "I87:4855;59:223",
+        "text": "3891 Ranchview Dr. Richardson, C..."
+      },
+      {
+        "id": "I87:4870;59:222",
+        "text": "Add address"
+      },
+      {
+        "id": "I87:4870;59:223",
+        "text": "Add new delivery address"
+      }
+    ]
+  },
+  {
+    "id": "75:4041",
+    "name": "Refer to friends",
+    "type": "FRAME",
+    "bounds": {
+      "x": 3915,
+      "y": -212,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 7,
+    "slug": "31_refer_to_friends",
+    "texts": [
+      {
+        "id": "I78:4;2:152",
+        "text": "9:41"
+      },
+      {
+        "id": "I78:33;2:2755",
+        "text": "Refer to friends"
+      },
+      {
+        "id": "78:45",
+        "text": "Refer a friends, get $10"
+      },
+      {
+        "id": "78:46",
+        "text": "Get $10 in credits when someone\nsign up using your referal link"
+      },
+      {
+        "id": "I78:47;2:3",
+        "text": "Share"
+      }
+    ]
+  },
+  {
+    "id": "59:2867",
+    "name": "Address information",
+    "type": "FRAME",
+    "bounds": {
+      "x": 6126,
+      "y": -212,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 2,
+    "slug": "32_address_information",
+    "texts": [
+      {
+        "id": "I87:4984;2:152",
+        "text": "9:41"
+      },
+      {
+        "id": "I87:4985;2:2755",
+        "text": "Home"
+      },
+      {
+        "id": "I87:4985;2:2756;2:2781",
+        "text": "Delete"
+      },
+      {
+        "id": "I88:4780;2:1067",
+        "text": "Name"
+      },
+      {
+        "id": "I88:4780;2:1069",
+        "text": "Home"
+      },
+      {
+        "id": "I88:4785;2:1067",
+        "text": "Address"
+      },
+      {
+        "id": "I88:4785;2:1069",
+        "text": "3517 W. Gray St. Utica, Pennsylvani..."
+      },
+      {
+        "id": "I89:5;2:1067",
+        "text": "Entrance"
+      },
+      {
+        "id": "I89:5;2:1069",
+        "text": "3"
+      },
+      {
+        "id": "I89:12;2:1067",
+        "text": "Apartment number"
+      },
+      {
+        "id": "I89:12;2:1069",
+        "text": "114"
+      },
+      {
+        "id": "I89:16;2:1067",
+        "text": "Floor"
+      },
+      {
+        "id": "I89:16;2:1069",
+        "text": "12"
+      },
+      {
+        "id": "I89:21;2:1055",
+        "text": "Comment to the courier"
+      },
+      {
+        "id": "I89:21;2:1059",
+        "text": "Enter the comment"
+      }
+    ]
+  },
+  {
+    "id": "59:3283",
+    "name": "Restaurant page",
+    "type": "FRAME",
+    "bounds": {
+      "x": -4117,
+      "y": -212,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 8,
+    "slug": "33_restaurant_page",
+    "texts": [
+      {
+        "id": "I59:3284;2:152",
+        "text": "9:41"
+      },
+      {
+        "id": "I204:8423;2:2547",
+        "text": "Friendly's"
+      },
+      {
+        "id": "204:8427",
+        "text": "4.5"
+      },
+      {
+        "id": "I204:8434;23:1607",
+        "text": "All"
+      },
+      {
+        "id": "I204:8435;23:1597",
+        "text": "Sushi"
+      },
+      {
+        "id": "I204:8436;23:1597",
+        "text": "Barbecue"
+      },
+      {
+        "id": "I204:8437;23:1597",
+        "text": "Burger"
+      },
+      {
+        "id": "I204:8439;23:1597",
+        "text": "Rolls"
+      },
+      {
+        "id": "I204:8440;23:1597",
+        "text": "Donut"
+      },
+      {
+        "id": "I204:8441;23:1597",
+        "text": "Steak"
+      },
+      {
+        "id": "I204:8442;23:1597",
+        "text": "Pasta"
+      },
+      {
+        "id": "I204:8455;2:2547",
+        "text": "Food"
+      },
+      {
+        "id": "I204:8513;48:2655;48:2650",
+        "text": "Grilled pork ribs barbecue "
+      },
+      {
+        "id": "I204:8513;48:2655;48:2651",
+        "text": "320 g"
+      },
+      {
+        "id": "I204:8513;48:2655;48:2652;39:1484",
+        "text": "$20"
+      },
+      {
+        "id": "I204:8514;48:2655;48:2650",
+        "text": "Pork knuckle with crispy crust"
+      },
+      {
+        "id": "I204:8514;48:2655;48:2651",
+        "text": "350 g"
+      },
+      {
+        "id": "I204:8514;48:2655;48:2652;39:1484",
+        "text": "$40"
+      },
+      {
+        "id": "I204:8517;48:2655;48:2650",
+        "text": "Viennese pork schnitzel "
+      },
+      {
+        "id": "I204:8517;48:2655;48:2651",
+        "text": "250 g"
+      },
+      {
+        "id": "I204:8518;48:2655;48:2650",
+        "text": "Pork shish kebab with bacon"
+      },
+      {
+        "id": "I204:8518;48:2655;48:2651",
+        "text": "300 g"
+      }
+    ]
+  },
+  {
+    "id": "39:1735",
+    "name": "Product Detail Screen",
+    "type": "FRAME",
+    "bounds": {
+      "x": -4556,
+      "y": -212,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 12,
+    "slug": "34_product_detail_screen",
+    "texts": [
+      {
+        "id": "I59:2108;2:152",
+        "text": "9:41"
+      },
+      {
+        "id": "I59:2109;2:2755",
+        "text": "Popular"
+      },
+      {
+        "id": "I59:2110;2:2547",
+        "text": "Food"
+      },
+      {
+        "id": "I59:2113;48:2655;48:2650",
+        "text": "LongHorn Steakhouse"
+      },
+      {
+        "id": "I59:2113;48:2655;48:2651",
+        "text": "220 g"
+      },
+      {
+        "id": "I59:2113;48:2655;48:2652;39:1484",
+        "text": "$25"
+      },
+      {
+        "id": "I59:2114;48:2655;48:2650",
+        "text": "LongHorn Steakhouse"
+      },
+      {
+        "id": "I59:2114;48:2655;48:2651",
+        "text": "220 g"
+      },
+      {
+        "id": "I59:2114;48:2655;48:2652;39:1484",
+        "text": "$25"
+      },
+      {
+        "id": "I59:2117;48:2655;48:2650",
+        "text": "LongHorn Steakhouse"
+      },
+      {
+        "id": "I59:2117;48:2655;48:2651",
+        "text": "220 g"
+      },
+      {
+        "id": "I59:2117;48:2655;48:2652;39:1484",
+        "text": "$25"
+      },
+      {
+        "id": "I59:2118;48:2655;48:2650",
+        "text": "LongHorn Steakhouse"
+      },
+      {
+        "id": "I59:2118;48:2655;48:2651",
+        "text": "220 g"
+      },
+      {
+        "id": "I59:2118;48:2655;48:2652;39:1484",
+        "text": "$25"
+      },
+      {
+        "id": "I59:2120;2:2547",
+        "text": "Restaurants"
+      },
+      {
+        "id": "I59:2247;2:3",
+        "text": "Add $24"
+      },
+      {
+        "id": "59:2246",
+        "text": "220 g"
+      },
+      {
+        "id": "59:2242",
+        "text": "Hungarian goulash soup"
+      },
+      {
+        "id": "59:2245",
+        "text": "Thick soup with spicy spice with bell peppers, potatoes, beef, onions, carrots and garlic"
+      },
+      {
+        "id": "I59:2284;59:2266",
+        "text": "1"
+      },
+      {
+        "id": "I59:3215;2:152",
+        "text": "9:41"
+      }
+    ]
+  },
+  {
+    "id": "39:1736",
+    "name": "Succes payment",
+    "type": "FRAME",
+    "bounds": {
+      "x": -708,
+      "y": -212,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 8,
+    "slug": "35_succes_payment",
+    "texts": [
+      {
+        "id": "I40:490;2:152",
+        "text": "9:41"
+      },
+      {
+        "id": "I59:2698;2:2755",
+        "text": "Payment Success"
+      },
+      {
+        "id": "59:2765",
+        "text": "Failed"
+      },
+      {
+        "id": "59:2766",
+        "text": "The payment was successful, enjoy the excellent service and fast delivery!"
+      },
+      {
+        "id": "59:2767",
+        "text": "Congratulations!"
+      },
+      {
+        "id": "I59:2768;2:3",
+        "text": "Go to home page"
+      }
+    ]
+  },
+  {
+    "id": "59:2712",
+    "name": "Failed payment",
+    "type": "FRAME",
+    "bounds": {
+      "x": -269,
+      "y": -212,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 9,
+    "slug": "36_failed_payment",
+    "texts": [
+      {
+        "id": "I59:2713;2:152",
+        "text": "9:41"
+      },
+      {
+        "id": "I59:2717;2:2755",
+        "text": "Payment Failed"
+      },
+      {
+        "id": "59:2756",
+        "text": "Failed"
+      },
+      {
+        "id": "59:2757",
+        "text": "An error occurred during the payment, please try again"
+      },
+      {
+        "id": "59:2758",
+        "text": "Unfortunately!"
+      },
+      {
+        "id": "I59:2759;2:3",
+        "text": "Try Again"
+      },
+      {
+        "id": "I59:2777;2:1125",
+        "text": "Skip"
+      }
+    ]
+  },
+  {
+    "id": "39:1742",
+    "name": "Search ",
+    "type": "FRAME",
+    "bounds": {
+      "x": 1384,
+      "y": -212,
+      "width": 375,
+      "height": 1712
+    },
+    "parentId": "0:1",
+    "childCount": 4,
+    "slug": "37_search",
+    "texts": [
+      {
+        "id": "I40:578;2:152",
+        "text": "9:41"
+      },
+      {
+        "id": "I89:1519;2:152",
+        "text": "9:41"
+      },
+      {
+        "id": "I104:2713;2:2755",
+        "text": "Search"
+      },
+      {
+        "id": "I104:2707;47:21",
+        "text": "Restaurants"
+      },
+      {
+        "id": "I104:2707;47:26",
+        "text": "Food"
+      },
+      {
+        "id": "I104:2650;2:2549",
+        "text": "With a high rating"
+      },
+      {
+        "id": "I104:2650;2:2550",
+        "text": "See more"
+      },
+      {
+        "id": "I104:2651;39:1678;23:1607",
+        "text": "Free delivery"
+      },
+      {
+        "id": "I104:2651;39:1664;24:1117",
+        "text": "Friendly's"
+      },
+      {
+        "id": "I104:2651;39:1664;24:1120",
+        "text": "4.5"
+      },
+      {
+        "id": "I104:2651;39:1664;24:1115",
+        "text": "1.3 KM ~ 30 min"
+      },
+      {
+        "id": "I104:2653;24:1126;24:1117",
+        "text": "Café Rouge"
+      },
+      {
+        "id": "I104:2653;24:1126;24:1120",
+        "text": "4.3"
+      },
+      {
+        "id": "I104:2653;24:1126;24:1115",
+        "text": "1.5 KM ~ 40 min"
+      },
+      {
+        "id": "I104:2723;24:1126;24:1117",
+        "text": "Red Lobster"
+      },
+      {
+        "id": "I104:2723;24:1126;24:1120",
+        "text": "4.3"
+      },
+      {
+        "id": "I104:2723;24:1126;24:1115",
+        "text": "0.9 KM ~ 18 min"
+      },
+      {
+        "id": "I104:2740;2:2547",
+        "text": "Worth your attention"
+      },
+      {
+        "id": "I104:2745;39:1678;23:1607",
+        "text": "Free delivery"
+      },
+      {
+        "id": "I104:2745;39:1664;24:1117",
+        "text": "Rainforest Cafe"
+      },
+      {
+        "id": "I104:2745;39:1664;24:1120",
+        "text": "4.5"
+      },
+      {
+        "id": "I104:2745;39:1664;24:1115",
+        "text": "1.3 KM ~ 30 min"
+      },
+      {
+        "id": "I104:2746;24:1126;24:1117",
+        "text": "Big Boy"
+      },
+      {
+        "id": "I104:2746;24:1126;24:1120",
+        "text": "4.3"
+      },
+      {
+        "id": "I104:2746;24:1126;24:1115",
+        "text": "1.5 KM ~ 40 min"
+      },
+      {
+        "id": "I104:2747;24:1126;24:1117",
+        "text": "Boston Market"
+      },
+      {
+        "id": "I104:2747;24:1126;24:1120",
+        "text": "4.2"
+      },
+      {
+        "id": "I104:2747;24:1126;24:1115",
+        "text": "0.9 KM ~ 18 min"
+      },
+      {
+        "id": "I89:1520;38:350;37:47",
+        "text": "Home"
+      },
+      {
+        "id": "I89:1520;38:351;37:47",
+        "text": "Сart"
+      },
+      {
+        "id": "I89:1520;38:374;37:36",
+        "text": "Search"
+      },
+      {
+        "id": "I89:1520;38:352;37:47",
+        "text": "Profile"
+      }
+    ]
+  },
+  {
+    "id": "104:2791",
+    "name": "Search ",
+    "type": "FRAME",
+    "bounds": {
+      "x": 1823,
+      "y": -212,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 4,
+    "slug": "38_search",
+    "texts": [
+      {
+        "id": "I104:2792;2:152",
+        "text": "9:41"
+      },
+      {
+        "id": "I104:2793;2:152",
+        "text": "9:41"
+      },
+      {
+        "id": "I104:2795;2:2755",
+        "text": "Search"
+      },
+      {
+        "id": "I104:2796;48:2077",
+        "text": "Restaurants"
+      },
+      {
+        "id": "I104:2796;48:2075",
+        "text": "Food"
+      },
+      {
+        "id": "I104:2798;2:2549",
+        "text": "New dishes"
+      },
+      {
+        "id": "I104:2798;2:2550",
+        "text": "See more"
+      },
+      {
+        "id": "I203:401;48:2655;48:2650",
+        "text": "Grilled pork ribs barbecue "
+      },
+      {
+        "id": "I203:401;48:2655;48:2651",
+        "text": "210 g"
+      },
+      {
+        "id": "I203:401;48:2655;48:2652;39:1484",
+        "text": "$25"
+      },
+      {
+        "id": "I203:402;48:2655;48:2650",
+        "text": "Commander's grilled squid"
+      },
+      {
+        "id": "I203:402;48:2655;48:2651",
+        "text": "200 g"
+      },
+      {
+        "id": "I203:402;48:2655;48:2652;39:1484",
+        "text": "$40"
+      },
+      {
+        "id": "I203:405;48:2655;48:2650",
+        "text": "Salmon fillet\n"
+      },
+      {
+        "id": "I203:405;48:2655;48:2651",
+        "text": "320 g"
+      },
+      {
+        "id": "I203:405;48:2655;48:2652;39:1484",
+        "text": "$32"
+      },
+      {
+        "id": "I203:406;48:2655;48:2650",
+        "text": "Salad with roasted beef"
+      },
+      {
+        "id": "I203:406;48:2655;48:2651",
+        "text": "350 g"
+      },
+      {
+        "id": "I203:406;48:2655;48:2652;39:1484",
+        "text": "$20"
+      },
+      {
+        "id": "I104:2811;38:350;37:47",
+        "text": "Home"
+      },
+      {
+        "id": "I104:2811;38:351;37:47",
+        "text": "Сart"
+      },
+      {
+        "id": "I104:2811;38:374;37:36",
+        "text": "Search"
+      },
+      {
+        "id": "I104:2811;38:352;37:47",
+        "text": "Profile"
+      }
+    ]
+  },
+  {
+    "id": "104:3044",
+    "name": "Search action",
+    "type": "FRAME",
+    "bounds": {
+      "x": 2262,
+      "y": -212,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 2,
+    "slug": "39_search_action",
+    "texts": [
+      {
+        "id": "I104:3046;2:152",
+        "text": "9:41"
+      },
+      {
+        "id": "I104:3836;2:3790;2:3778",
+        "text": "Search"
+      },
+      {
+        "id": "I104:3836;2:3790;2:3780",
+        "text": "Cancel"
+      },
+      {
+        "id": "I104:3879;2:2547",
+        "text": "Popular "
+      },
+      {
+        "id": "I104:3887;23:1597",
+        "text": "Pizza"
+      },
+      {
+        "id": "I104:3888;23:1597",
+        "text": "Sushi"
+      },
+      {
+        "id": "I104:3889;23:1597",
+        "text": "Barbecue"
+      },
+      {
+        "id": "I104:3890;23:1597",
+        "text": "Burger"
+      },
+      {
+        "id": "I104:3892;23:1597",
+        "text": "Rolls"
+      },
+      {
+        "id": "I104:3893;23:1597",
+        "text": "Donut"
+      },
+      {
+        "id": "I104:3894;23:1597",
+        "text": "Steak"
+      },
+      {
+        "id": "I104:3895;23:1597",
+        "text": "Pasta"
+      },
+      {
+        "id": "I104:4159;2:2549",
+        "text": "Search history"
+      },
+      {
+        "id": "I104:4159;2:2550",
+        "text": "Clear all"
+      },
+      {
+        "id": "I104:4166;19:41",
+        "text": "Amuse-bouche"
+      },
+      {
+        "id": "I104:4177;19:41",
+        "text": "Confiserie"
+      },
+      {
+        "id": "I104:4187;19:41",
+        "text": "Entrée"
+      },
+      {
+        "id": "I104:4197;19:41",
+        "text": "Plat principal"
+      },
+      {
+        "id": "I104:3193;2:631",
+        "text": "Go"
+      },
+      {
+        "id": "I104:3193;2:634",
+        "text": "space"
+      },
+      {
+        "id": "I104:3193;2:637",
+        "text": "123"
+      },
+      {
+        "id": "I104:3193;2:641",
+        "text": " "
+      },
+      {
+        "id": "I104:3193;2:654",
+        "text": " "
+      },
+      {
+        "id": "I104:3193;2:658",
+        "text": "M"
+      },
+      {
+        "id": "I104:3193;2:661",
+        "text": "N"
+      },
+      {
+        "id": "I104:3193;2:664",
+        "text": "B"
+      },
+      {
+        "id": "I104:3193;2:667",
+        "text": "V"
+      },
+      {
+        "id": "I104:3193;2:670",
+        "text": "C"
+      },
+      {
+        "id": "I104:3193;2:673",
+        "text": "X"
+      },
+      {
+        "id": "I104:3193;2:676",
+        "text": "Z"
+      },
+      {
+        "id": "I104:3193;2:679",
+        "text": "L"
+      },
+      {
+        "id": "I104:3193;2:682",
+        "text": "K"
+      },
+      {
+        "id": "I104:3193;2:685",
+        "text": "J"
+      },
+      {
+        "id": "I104:3193;2:688",
+        "text": "H"
+      },
+      {
+        "id": "I104:3193;2:691",
+        "text": "G"
+      },
+      {
+        "id": "I104:3193;2:694",
+        "text": "F"
+      },
+      {
+        "id": "I104:3193;2:697",
+        "text": "D"
+      },
+      {
+        "id": "I104:3193;2:700",
+        "text": "S"
+      },
+      {
+        "id": "I104:3193;2:703",
+        "text": "A"
+      },
+      {
+        "id": "I104:3193;2:706",
+        "text": "P"
+      },
+      {
+        "id": "I104:3193;2:709",
+        "text": "O"
+      },
+      {
+        "id": "I104:3193;2:712",
+        "text": "I"
+      },
+      {
+        "id": "I104:3193;2:715",
+        "text": "U"
+      },
+      {
+        "id": "I104:3193;2:718",
+        "text": "Y"
+      },
+      {
+        "id": "I104:3193;2:721",
+        "text": "T"
+      },
+      {
+        "id": "I104:3193;2:724",
+        "text": "R"
+      },
+      {
+        "id": "I104:3193;2:727",
+        "text": "E"
+      },
+      {
+        "id": "I104:3193;2:730",
+        "text": "W"
+      },
+      {
+        "id": "I104:3193;2:733",
+        "text": "Q"
+      }
+    ]
+  },
+  {
+    "id": "39:1743",
+    "name": "Search Result Food",
+    "type": "FRAME",
+    "bounds": {
+      "x": 2701,
+      "y": -212,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 2,
+    "slug": "40_search_result_food",
+    "texts": [
+      {
+        "id": "I89:1590;38:350;37:47",
+        "text": "Home"
+      },
+      {
+        "id": "I89:1590;38:351;37:47",
+        "text": "Сart"
+      },
+      {
+        "id": "I89:1590;38:374;37:36",
+        "text": "Search"
+      },
+      {
+        "id": "I89:1590;38:352;37:47",
+        "text": "Profile"
+      },
+      {
+        "id": "I104:4301;2:152",
+        "text": "9:41"
+      },
+      {
+        "id": "I104:4302;2:3790;2:3785",
+        "text": "Steak"
+      },
+      {
+        "id": "I104:4302;2:3790;2:3788",
+        "text": "Cancel"
+      },
+      {
+        "id": "I107:0;48:2077",
+        "text": "Restaurants"
+      },
+      {
+        "id": "I107:0;48:2075",
+        "text": "Food"
+      },
+      {
+        "id": "I107:8;48:2655;48:2650",
+        "text": "Grilled pork ribs barbecue "
+      },
+      {
+        "id": "I107:8;48:2655;48:2651",
+        "text": "320 g"
+      },
+      {
+        "id": "I107:8;48:2655;48:2652;39:1484",
+        "text": "$20"
+      },
+      {
+        "id": "I107:9;48:2655;48:2650",
+        "text": "Pork knuckle with crispy crust"
+      },
+      {
+        "id": "I107:9;48:2655;48:2651",
+        "text": "350 g"
+      },
+      {
+        "id": "I107:9;48:2655;48:2652;39:1484",
+        "text": "$40"
+      },
+      {
+        "id": "I107:12;48:2655;48:2650",
+        "text": "Viennese pork schnitzel "
+      },
+      {
+        "id": "I107:12;48:2655;48:2651",
+        "text": "250 g"
+      },
+      {
+        "id": "I107:12;48:2655;48:2652;39:1484",
+        "text": "$25"
+      },
+      {
+        "id": "I107:13;48:2655;48:2650",
+        "text": "Pork shish kebab with bacon"
+      },
+      {
+        "id": "I107:13;48:2655;48:2651",
+        "text": "300 g"
+      },
+      {
+        "id": "I107:13;48:2655;48:2652;39:1484",
+        "text": "$32"
+      }
+    ]
+  },
+  {
+    "id": "59:3260",
+    "name": "Profile",
+    "type": "FRAME",
+    "bounds": {
+      "x": 3476,
+      "y": -212,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 3,
+    "slug": "41_profile",
+    "texts": [
+      {
+        "id": "I59:3261;2:152",
+        "text": "9:41"
+      },
+      {
+        "id": "I73:100;2:2547",
+        "text": "Account settings"
+      },
+      {
+        "id": "I73:1;59:222",
+        "text": "Profile information"
+      },
+      {
+        "id": "I73:1;59:223",
+        "text": "Change your account information"
+      },
+      {
+        "id": "I73:27;59:222",
+        "text": "Payment method"
+      },
+      {
+        "id": "I73:27;59:223",
+        "text": "Add your credit & debit cards"
+      },
+      {
+        "id": "I73:39;59:222",
+        "text": "Address"
+      },
+      {
+        "id": "I73:39;59:223",
+        "text": "Add your delivery location"
+      },
+      {
+        "id": "I73:51;59:222",
+        "text": "Refer to friends"
+      },
+      {
+        "id": "I73:51;59:223",
+        "text": "Add your delivery location"
+      },
+      {
+        "id": "I73:63;59:222",
+        "text": "Notifications"
+      },
+      {
+        "id": "I73:63;59:223",
+        "text": "Add your delivery location"
+      },
+      {
+        "id": "I73:98;2:2547",
+        "text": "More"
+      },
+      {
+        "id": "I73:104;59:222",
+        "text": "Rate Us"
+      },
+      {
+        "id": "I73:104;59:223",
+        "text": "Rate out app in App Store"
+      },
+      {
+        "id": "I73:116;59:222",
+        "text": "FAQ"
+      },
+      {
+        "id": "I73:116;59:223",
+        "text": "Frequently asked questions"
+      },
+      {
+        "id": "I75:3897;59:222",
+        "text": "Logout"
+      },
+      {
+        "id": "I75:3897;59:223",
+        "text": "log out of your account"
+      },
+      {
+        "id": "I72:3759;38:350;37:47",
+        "text": "Home"
+      },
+      {
+        "id": "I72:3759;38:351;37:47",
+        "text": "Сart"
+      },
+      {
+        "id": "I72:3759;38:374;37:47",
+        "text": "Search"
+      },
+      {
+        "id": "I72:3759;38:352;37:36",
+        "text": "Profile"
+      }
+    ]
+  },
+  {
+    "id": "59:2779",
+    "name": "Cart",
+    "type": "FRAME",
+    "bounds": {
+      "x": -2025,
+      "y": -212,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 10,
+    "slug": "42_cart",
+    "texts": [
+      {
+        "id": "I103:5685;2:2755",
+        "text": "My orders"
+      },
+      {
+        "id": "I103:5686;47:21",
+        "text": "Active"
+      },
+      {
+        "id": "I103:5686;47:26",
+        "text": "History"
+      },
+      {
+        "id": "I103:5688;48:2824;48:2822",
+        "text": "Friendly's"
+      },
+      {
+        "id": "I103:5688;48:2824;48:2820",
+        "text": "Complete the order"
+      },
+      {
+        "id": "I103:5688;48:2812;19:109",
+        "text": "Viennese pork schnitzel"
+      },
+      {
+        "id": "I103:5688;48:2812;19:125",
+        "text": "$25"
+      },
+      {
+        "id": "I103:5688;48:2851;92:28",
+        "text": "To order"
+      },
+      {
+        "id": "I103:5690;48:2824;48:2822",
+        "text": "Friendly's"
+      },
+      {
+        "id": "I103:5690;48:2824;48:2820",
+        "text": "On the Way • 25 may"
+      },
+      {
+        "id": "I103:5690;48:2812;19:109",
+        "text": "Viennese pork schnitzel"
+      },
+      {
+        "id": "I103:5690;48:2812;19:125",
+        "text": "$25"
+      },
+      {
+        "id": "I103:5690;48:2816;19:109",
+        "text": "Grilled Beef tenderloin"
+      },
+      {
+        "id": "I103:5690;48:2816;19:125",
+        "text": "$18"
+      },
+      {
+        "id": "I103:5690;48:2833;19:109",
+        "text": "Total"
+      },
+      {
+        "id": "I103:5690;48:2833;19:125",
+        "text": "$43"
+      },
+      {
+        "id": "I103:5690;48:2851;39:1484",
+        "text": "Track order"
+      },
+      {
+        "id": "I103:5743;2:152",
+        "text": "9:41"
+      },
+      {
+        "id": "I103:5765;38:350;37:47",
+        "text": "Home"
+      },
+      {
+        "id": "I103:5765;38:351;37:36",
+        "text": "Сart"
+      },
+      {
+        "id": "I103:5765;38:374;37:47",
+        "text": "Search"
+      },
+      {
+        "id": "I103:5765;38:352;37:47",
+        "text": "Profile"
+      },
+      {
+        "id": "I103:6397;2:2547",
+        "text": "Your order"
+      },
+      {
+        "id": "I103:5860;48:2822",
+        "text": "Friendly's"
+      },
+      {
+        "id": "I103:5860;48:2820",
+        "text": "1 dish"
+      },
+      {
+        "id": "I103:6425;103:6342",
+        "text": "Viennese pork schnitzel"
+      },
+      {
+        "id": "I103:6425;103:6343;59:2266",
+        "text": "1"
+      },
+      {
+        "id": "I103:6425;103:6354",
+        "text": "$25"
+      },
+      {
+        "id": "I103:6363;2:2547",
+        "text": "Popular"
+      },
+      {
+        "id": "I103:6365;48:2655;48:2650",
+        "text": "Salad with roasted beef"
+      },
+      {
+        "id": "I103:6365;48:2655;48:2651",
+        "text": "220 g"
+      },
+      {
+        "id": "I103:6365;48:2655;48:2652;39:1484",
+        "text": "$20"
+      },
+      {
+        "id": "I103:6366;48:2655;48:2650",
+        "text": "Grilled pork ribs barbecue "
+      },
+      {
+        "id": "I103:6366;48:2655;48:2651",
+        "text": "210 g"
+      },
+      {
+        "id": "I103:6366;48:2655;48:2652;39:1484",
+        "text": "$25"
+      },
+      {
+        "id": "I103:6083;2:3",
+        "text": "Place an order $25"
+      },
+      {
+        "id": "I103:6403;2:152",
+        "text": "9:41"
+      }
+    ]
+  },
+  {
+    "id": "104:3321",
+    "name": "Cart / a lot of dishes",
+    "type": "FRAME",
+    "bounds": {
+      "x": -2025,
+      "y": 664,
+      "width": 375,
+      "height": 1248
+    },
+    "parentId": "0:1",
+    "childCount": 10,
+    "slug": "43_cart_a_lot_of_dishes",
+    "texts": [
+      {
+        "id": "I104:3323;2:2755",
+        "text": "My orders"
+      },
+      {
+        "id": "I104:3324;47:21",
+        "text": "Active"
+      },
+      {
+        "id": "I104:3324;47:26",
+        "text": "History"
+      },
+      {
+        "id": "I104:3326;48:2824;48:2822",
+        "text": "Friendly's"
+      },
+      {
+        "id": "I104:3326;48:2824;48:2820",
+        "text": "Complete the order"
+      },
+      {
+        "id": "I104:3326;48:2812;19:109",
+        "text": "Viennese pork schnitzel"
+      },
+      {
+        "id": "I104:3326;48:2812;19:125",
+        "text": "$25"
+      },
+      {
+        "id": "I104:3326;48:2851;92:28",
+        "text": "To order"
+      },
+      {
+        "id": "I104:3328;48:2824;48:2822",
+        "text": "Friendly's"
+      },
+      {
+        "id": "I104:3328;48:2824;48:2820",
+        "text": "On the Way • 25 may"
+      },
+      {
+        "id": "I104:3328;48:2812;19:109",
+        "text": "Viennese pork schnitzel"
+      },
+      {
+        "id": "I104:3328;48:2812;19:125",
+        "text": "$25"
+      },
+      {
+        "id": "I104:3328;48:2816;19:109",
+        "text": "Grilled Beef tenderloin"
+      },
+      {
+        "id": "I104:3328;48:2816;19:125",
+        "text": "$18"
+      },
+      {
+        "id": "I104:3328;48:2833;19:109",
+        "text": "Total"
+      },
+      {
+        "id": "I104:3328;48:2833;19:125",
+        "text": "$43"
+      },
+      {
+        "id": "I104:3328;48:2851;39:1484",
+        "text": "Track order"
+      },
+      {
+        "id": "I104:3329;2:152",
+        "text": "9:41"
+      },
+      {
+        "id": "I104:3330;38:350;37:47",
+        "text": "Home"
+      },
+      {
+        "id": "I104:3330;38:351;37:36",
+        "text": "Сart"
+      },
+      {
+        "id": "I104:3330;38:374;37:47",
+        "text": "Search"
+      },
+      {
+        "id": "I104:3330;38:352;37:47",
+        "text": "Profile"
+      },
+      {
+        "id": "I104:3335;2:2547",
+        "text": "Your order"
+      },
+      {
+        "id": "I104:3336;48:2822",
+        "text": "Friendly's"
+      },
+      {
+        "id": "I104:3336;48:2820",
+        "text": "1 dish"
+      },
+      {
+        "id": "I104:3337;103:6342",
+        "text": "Classic ice cream with fillers"
+      },
+      {
+        "id": "I104:3337;103:6343;59:2266",
+        "text": "1"
+      },
+      {
+        "id": "I104:3337;103:6354",
+        "text": "$10"
+      },
+      {
+        "id": "I104:3559;103:6342",
+        "text": "Spezle \ncarbonara"
+      },
+      {
+        "id": "I104:3559;103:6343;59:2266",
+        "text": "1"
+      },
+      {
+        "id": "I104:3559;103:6354",
+        "text": "$17"
+      },
+      {
+        "id": "I104:3573;103:6342",
+        "text": "Burger with chopped steak​"
+      },
+      {
+        "id": "I104:3573;103:6343;59:2266",
+        "text": "1"
+      },
+      {
+        "id": "I104:3573;103:6354",
+        "text": "$20"
+      },
+      {
+        "id": "I104:3587;103:6342",
+        "text": "Viennese pork schnitzel"
+      },
+      {
+        "id": "I104:3587;103:6343;59:2266",
+        "text": "1"
+      },
+      {
+        "id": "I104:3587;103:6354",
+        "text": "$25"
+      },
+      {
+        "id": "I202:96;2:2547",
+        "text": "Popular"
+      },
+      {
+        "id": "I202:99;48:2655;48:2650",
+        "text": "Salad with roasted beef"
+      },
+      {
+        "id": "I202:99;48:2655;48:2651",
+        "text": "220 g"
+      },
+      {
+        "id": "I202:99;48:2655;48:2652;39:1484",
+        "text": "$20"
+      },
+      {
+        "id": "I202:100;48:2655;48:2650",
+        "text": "Grilled pork ribs barbecue "
+      },
+      {
+        "id": "I202:100;48:2655;48:2651",
+        "text": "210 g"
+      },
+      {
+        "id": "I202:100;48:2655;48:2652;39:1484",
+        "text": "$25"
+      },
+      {
+        "id": "I104:3348;2:152",
+        "text": "9:41"
+      },
+      {
+        "id": "I104:3346;2:3",
+        "text": "Place an order $72"
+      }
+    ]
+  },
+  {
+    "id": "59:2780",
+    "name": "Payment",
+    "type": "FRAME",
+    "bounds": {
+      "x": -1586,
+      "y": -212,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 6,
+    "slug": "44_payment",
+    "texts": [
+      {
+        "id": "I103:6510;2:152",
+        "text": "9:41"
+      },
+      {
+        "id": "I103:6532;2:2827;2:2755",
+        "text": "Payment"
+      },
+      {
+        "id": "I103:6646;59:222",
+        "text": "Home"
+      },
+      {
+        "id": "I103:6646;59:223",
+        "text": "3517 W. Gray St. Utica, Pennsylvani..."
+      },
+      {
+        "id": "I104:0;59:222",
+        "text": "Apple Pay"
+      },
+      {
+        "id": "I104:0;59:223",
+        "text": "Pay with Face ID"
+      },
+      {
+        "id": "I104:13;19:109",
+        "text": "Viennese pork schnitzel"
+      },
+      {
+        "id": "I104:13;19:125",
+        "text": "$24"
+      },
+      {
+        "id": "I104:16;19:109",
+        "text": "Delivery"
+      },
+      {
+        "id": "I104:16;19:125",
+        "text": "Free"
+      },
+      {
+        "id": "I104:19;19:109",
+        "text": "Service Kit"
+      },
+      {
+        "id": "I104:19;19:125",
+        "text": "Free"
+      },
+      {
+        "id": "I104:22;19:109",
+        "text": "Discount"
+      },
+      {
+        "id": "I104:22;19:125",
+        "text": "$3"
+      },
+      {
+        "id": "I104:81;104:79",
+        "text": "Total"
+      },
+      {
+        "id": "I104:81;104:80",
+        "text": "$21"
+      },
+      {
+        "id": "I104:28;2:835",
+        "text": "Apple pay "
+      }
+    ]
+  },
+  {
+    "id": "104:3601",
+    "name": "Payment / a lot of dishes",
+    "type": "FRAME",
+    "bounds": {
+      "x": -1586,
+      "y": 664,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 6,
+    "slug": "45_payment_a_lot_of_dishes",
+    "texts": [
+      {
+        "id": "I104:3603;2:152",
+        "text": "9:41"
+      },
+      {
+        "id": "I104:3604;2:2827;2:2755",
+        "text": "Payment"
+      },
+      {
+        "id": "I104:3608;59:222",
+        "text": "Home"
+      },
+      {
+        "id": "I104:3608;59:223",
+        "text": "3517 W. Gray St. Utica, Pennsylvani..."
+      },
+      {
+        "id": "I104:3609;59:222",
+        "text": "Apple Pay"
+      },
+      {
+        "id": "I104:3609;59:223",
+        "text": "Pay with Face ID"
+      },
+      {
+        "id": "I104:3610;19:109",
+        "text": "Classic ice cream with fillers"
+      },
+      {
+        "id": "I104:3610;19:125",
+        "text": "$10"
+      },
+      {
+        "id": "I104:3688;19:109",
+        "text": "Spezle carbonara"
+      },
+      {
+        "id": "I104:3688;19:125",
+        "text": "$17"
+      },
+      {
+        "id": "I104:3691;19:109",
+        "text": "Burger with chopped steak​"
+      },
+      {
+        "id": "I104:3691;19:125",
+        "text": "$20"
+      },
+      {
+        "id": "I104:3694;19:109",
+        "text": "Viennese pork schnitzel"
+      },
+      {
+        "id": "I104:3694;19:125",
+        "text": "$25"
+      },
+      {
+        "id": "I104:3611;19:109",
+        "text": "Delivery"
+      },
+      {
+        "id": "I104:3611;19:125",
+        "text": "Free"
+      },
+      {
+        "id": "I104:3612;19:109",
+        "text": "Service Kit"
+      },
+      {
+        "id": "I104:3612;19:125",
+        "text": "Free"
+      },
+      {
+        "id": "I104:3614;104:79",
+        "text": "Total"
+      },
+      {
+        "id": "I104:3614;104:80",
+        "text": "$72"
+      },
+      {
+        "id": "I104:3615;2:835",
+        "text": "Apple pay "
+      }
+    ]
+  },
+  {
+    "id": "89:30",
+    "name": "Change address",
+    "type": "FRAME",
+    "bounds": {
+      "x": 6126,
+      "y": 664,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 12,
+    "slug": "46_change_address",
+    "texts": [
+      {
+        "id": "I89:32;23:1326",
+        "text": "Deliver to"
+      },
+      {
+        "id": "I89:32;23:1327",
+        "text": "3517 W. Gray St. Utica, Pennsylvania 57..."
+      },
+      {
+        "id": "I89:33;2:3790;2:3772",
+        "text": "Search"
+      },
+      {
+        "id": "I89:37;23:1597",
+        "text": "Pizza"
+      },
+      {
+        "id": "I89:38;23:1597",
+        "text": "Sushi"
+      },
+      {
+        "id": "I89:39;23:1597",
+        "text": "Barbecue"
+      },
+      {
+        "id": "I89:40;23:1597",
+        "text": "Burger"
+      },
+      {
+        "id": "I89:42;23:1597",
+        "text": "Rolls"
+      },
+      {
+        "id": "I89:43;23:1597",
+        "text": "Donut"
+      },
+      {
+        "id": "I89:44;23:1597",
+        "text": "Steak"
+      },
+      {
+        "id": "I89:45;23:1597",
+        "text": "Pasta"
+      },
+      {
+        "id": "I89:48;2:2549",
+        "text": "Restaurants"
+      },
+      {
+        "id": "I89:48;2:2550",
+        "text": "See more"
+      },
+      {
+        "id": "I89:50;39:1678;23:1607",
+        "text": "Free delivery"
+      },
+      {
+        "id": "I89:50;39:1664;24:1117",
+        "text": "Friendly's"
+      },
+      {
+        "id": "I89:50;39:1664;24:1120",
+        "text": "4.5"
+      },
+      {
+        "id": "I89:50;39:1664;24:1115",
+        "text": "1901 Thornridge Cir. Shiloh, Hawaii 81063"
+      },
+      {
+        "id": "I89:52;24:1126;24:1143",
+        "text": "Planet Hollywood"
+      },
+      {
+        "id": "I89:52;24:1126;24:1146",
+        "text": "4.3"
+      },
+      {
+        "id": "I89:52;24:1126;24:1147",
+        "text": "4140 Parker Rd. Allento..."
+      },
+      {
+        "id": "I89:52;24:1126;24:1153",
+        "text": "Open at 10:00 AM"
+      },
+      {
+        "id": "I89:53;2:152",
+        "text": "9:41"
+      },
+      {
+        "id": "I89:54;38:350;37:36",
+        "text": "Home"
+      },
+      {
+        "id": "I89:54;38:351;37:47",
+        "text": "Сart"
+      },
+      {
+        "id": "I89:54;38:374;37:47",
+        "text": "Search"
+      },
+      {
+        "id": "I89:54;38:352;37:47",
+        "text": "Profile"
+      },
+      {
+        "id": "I89:56;2:152",
+        "text": "9:41"
+      },
+      {
+        "id": "I89:58;2:2755",
+        "text": "Change address"
+      },
+      {
+        "id": "I89:58;2:2756;2:2783",
+        "text": "Map"
+      },
+      {
+        "id": "I89:59;2:631",
+        "text": "Go"
+      },
+      {
+        "id": "I89:59;2:634",
+        "text": "space"
+      },
+      {
+        "id": "I89:59;2:637",
+        "text": "123"
+      },
+      {
+        "id": "I89:59;2:641",
+        "text": " "
+      },
+      {
+        "id": "I89:59;2:654",
+        "text": " "
+      },
+      {
+        "id": "I89:59;2:658",
+        "text": "M"
+      },
+      {
+        "id": "I89:59;2:661",
+        "text": "N"
+      },
+      {
+        "id": "I89:59;2:664",
+        "text": "B"
+      },
+      {
+        "id": "I89:59;2:667",
+        "text": "V"
+      },
+      {
+        "id": "I89:59;2:670",
+        "text": "C"
+      },
+      {
+        "id": "I89:59;2:673",
+        "text": "X"
+      },
+      {
+        "id": "I89:59;2:676",
+        "text": "Z"
+      },
+      {
+        "id": "I89:59;2:679",
+        "text": "L"
+      },
+      {
+        "id": "I89:59;2:682",
+        "text": "K"
+      },
+      {
+        "id": "I89:59;2:685",
+        "text": "J"
+      },
+      {
+        "id": "I89:59;2:688",
+        "text": "H"
+      },
+      {
+        "id": "I89:59;2:691",
+        "text": "G"
+      },
+      {
+        "id": "I89:59;2:694",
+        "text": "F"
+      },
+      {
+        "id": "I89:59;2:697",
+        "text": "D"
+      },
+      {
+        "id": "I89:59;2:700",
+        "text": "S"
+      },
+      {
+        "id": "I89:59;2:703",
+        "text": "A"
+      },
+      {
+        "id": "I89:59;2:706",
+        "text": "P"
+      },
+      {
+        "id": "I89:59;2:709",
+        "text": "O"
+      },
+      {
+        "id": "I89:59;2:712",
+        "text": "I"
+      },
+      {
+        "id": "I89:59;2:715",
+        "text": "U"
+      },
+      {
+        "id": "I89:59;2:718",
+        "text": "Y"
+      },
+      {
+        "id": "I89:59;2:721",
+        "text": "T"
+      },
+      {
+        "id": "I89:59;2:724",
+        "text": "R"
+      },
+      {
+        "id": "I89:59;2:727",
+        "text": "E"
+      },
+      {
+        "id": "I89:59;2:730",
+        "text": "W"
+      },
+      {
+        "id": "I89:59;2:733",
+        "text": "Q"
+      },
+      {
+        "id": "I89:60;2:3790;2:3766",
+        "text": "San frans"
+      },
+      {
+        "id": "I89:63;59:147",
+        "text": "San Francisco"
+      },
+      {
+        "id": "I89:63;59:187",
+        "text": "California"
+      },
+      {
+        "id": "I89:64;59:147",
+        "text": "San Francisco"
+      },
+      {
+        "id": "I89:64;59:187",
+        "text": "Cordoba"
+      },
+      {
+        "id": "I89:65;59:147",
+        "text": "San Francisco City Hall"
+      },
+      {
+        "id": "I89:65;59:187",
+        "text": "Doctor Carlton B"
+      }
+    ]
+  },
+  {
+    "id": "89:762",
+    "name": "Map / add address",
+    "type": "FRAME",
+    "bounds": {
+      "x": 6565,
+      "y": 664,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 10,
+    "slug": "47_map_add_address",
+    "texts": [
+      {
+        "id": "I89:788;2:152",
+        "text": "9:41"
+      },
+      {
+        "id": "I89:1430;2:152",
+        "text": "9:41"
+      },
+      {
+        "id": "I89:1496;19:41",
+        "text": "3517 W. Gray St. Utica, Pennsylvania 57867"
+      },
+      {
+        "id": "I89:1481;2:3",
+        "text": "Add address"
+      }
+    ]
+  },
+  {
+    "id": "89:397",
+    "name": "Change address",
+    "type": "FRAME",
+    "bounds": {
+      "x": 6565,
+      "y": -212,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 12,
+    "slug": "48_change_address",
+    "texts": [
+      {
+        "id": "I89:399;23:1326",
+        "text": "Deliver to"
+      },
+      {
+        "id": "I89:399;23:1327",
+        "text": "3517 W. Gray St. Utica, Pennsylvania 57..."
+      },
+      {
+        "id": "I89:400;2:3790;2:3772",
+        "text": "Search"
+      },
+      {
+        "id": "I89:404;23:1597",
+        "text": "Pizza"
+      },
+      {
+        "id": "I89:405;23:1597",
+        "text": "Sushi"
+      },
+      {
+        "id": "I89:406;23:1597",
+        "text": "Barbecue"
+      },
+      {
+        "id": "I89:407;23:1597",
+        "text": "Burger"
+      },
+      {
+        "id": "I89:409;23:1597",
+        "text": "Rolls"
+      },
+      {
+        "id": "I89:410;23:1597",
+        "text": "Donut"
+      },
+      {
+        "id": "I89:411;23:1597",
+        "text": "Steak"
+      },
+      {
+        "id": "I89:412;23:1597",
+        "text": "Pasta"
+      },
+      {
+        "id": "I89:415;2:2549",
+        "text": "Restaurants"
+      },
+      {
+        "id": "I89:415;2:2550",
+        "text": "See more"
+      },
+      {
+        "id": "I89:417;39:1678;23:1607",
+        "text": "Free delivery"
+      },
+      {
+        "id": "I89:417;39:1664;24:1117",
+        "text": "Friendly's"
+      },
+      {
+        "id": "I89:417;39:1664;24:1120",
+        "text": "4.5"
+      },
+      {
+        "id": "I89:417;39:1664;24:1115",
+        "text": "1901 Thornridge Cir. Shiloh, Hawaii 81063"
+      },
+      {
+        "id": "I89:419;24:1126;24:1143",
+        "text": "Planet Hollywood"
+      },
+      {
+        "id": "I89:419;24:1126;24:1146",
+        "text": "4.3"
+      },
+      {
+        "id": "I89:419;24:1126;24:1147",
+        "text": "4140 Parker Rd. Allento..."
+      },
+      {
+        "id": "I89:419;24:1126;24:1153",
+        "text": "Open at 10:00 AM"
+      },
+      {
+        "id": "I89:420;2:152",
+        "text": "9:41"
+      },
+      {
+        "id": "I89:421;38:350;37:36",
+        "text": "Home"
+      },
+      {
+        "id": "I89:421;38:351;37:47",
+        "text": "Сart"
+      },
+      {
+        "id": "I89:421;38:374;37:47",
+        "text": "Search"
+      },
+      {
+        "id": "I89:421;38:352;37:47",
+        "text": "Profile"
+      },
+      {
+        "id": "I89:423;2:152",
+        "text": "9:41"
+      },
+      {
+        "id": "I89:425;2:2755",
+        "text": "Add address"
+      },
+      {
+        "id": "I89:425;2:2756;2:2783",
+        "text": "Map"
+      },
+      {
+        "id": "I89:426;2:631",
+        "text": "Go"
+      },
+      {
+        "id": "I89:426;2:634",
+        "text": "space"
+      },
+      {
+        "id": "I89:426;2:637",
+        "text": "123"
+      },
+      {
+        "id": "I89:426;2:641",
+        "text": " "
+      },
+      {
+        "id": "I89:426;2:654",
+        "text": " "
+      },
+      {
+        "id": "I89:426;2:658",
+        "text": "M"
+      },
+      {
+        "id": "I89:426;2:661",
+        "text": "N"
+      },
+      {
+        "id": "I89:426;2:664",
+        "text": "B"
+      },
+      {
+        "id": "I89:426;2:667",
+        "text": "V"
+      },
+      {
+        "id": "I89:426;2:670",
+        "text": "C"
+      },
+      {
+        "id": "I89:426;2:673",
+        "text": "X"
+      },
+      {
+        "id": "I89:426;2:676",
+        "text": "Z"
+      },
+      {
+        "id": "I89:426;2:679",
+        "text": "L"
+      },
+      {
+        "id": "I89:426;2:682",
+        "text": "K"
+      },
+      {
+        "id": "I89:426;2:685",
+        "text": "J"
+      },
+      {
+        "id": "I89:426;2:688",
+        "text": "H"
+      },
+      {
+        "id": "I89:426;2:691",
+        "text": "G"
+      },
+      {
+        "id": "I89:426;2:694",
+        "text": "F"
+      },
+      {
+        "id": "I89:426;2:697",
+        "text": "D"
+      },
+      {
+        "id": "I89:426;2:700",
+        "text": "S"
+      },
+      {
+        "id": "I89:426;2:703",
+        "text": "A"
+      },
+      {
+        "id": "I89:426;2:706",
+        "text": "P"
+      },
+      {
+        "id": "I89:426;2:709",
+        "text": "O"
+      },
+      {
+        "id": "I89:426;2:712",
+        "text": "I"
+      },
+      {
+        "id": "I89:426;2:715",
+        "text": "U"
+      },
+      {
+        "id": "I89:426;2:718",
+        "text": "Y"
+      },
+      {
+        "id": "I89:426;2:721",
+        "text": "T"
+      },
+      {
+        "id": "I89:426;2:724",
+        "text": "R"
+      },
+      {
+        "id": "I89:426;2:727",
+        "text": "E"
+      },
+      {
+        "id": "I89:426;2:730",
+        "text": "W"
+      },
+      {
+        "id": "I89:426;2:733",
+        "text": "Q"
+      },
+      {
+        "id": "I89:427;2:3790;2:3766",
+        "text": "San frans"
+      },
+      {
+        "id": "I89:428;59:147",
+        "text": "San Francisco"
+      },
+      {
+        "id": "I89:428;59:187",
+        "text": "California"
+      },
+      {
+        "id": "I89:429;59:147",
+        "text": "San Francisco"
+      },
+      {
+        "id": "I89:429;59:187",
+        "text": "Cordoba"
+      },
+      {
+        "id": "I89:430;59:147",
+        "text": "San Francisco City Hall"
+      },
+      {
+        "id": "I89:430;59:187",
+        "text": "Doctor Carlton B"
+      }
+    ]
+  },
+  {
+    "id": "203:0",
+    "name": "Change address",
+    "type": "FRAME",
+    "bounds": {
+      "x": -1147,
+      "y": 664,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 2,
+    "slug": "49_change_address",
+    "texts": [
+      {
+        "id": "I203:2;2:152",
+        "text": "9:41"
+      },
+      {
+        "id": "I203:3;2:2755",
+        "text": "Address"
+      },
+      {
+        "id": "I203:5;59:222",
+        "text": "Home"
+      },
+      {
+        "id": "I203:5;59:223",
+        "text": "3517 W. Gray St. Utica, Pennsylvani..."
+      },
+      {
+        "id": "I203:6;59:222",
+        "text": "John Friend"
+      },
+      {
+        "id": "I203:6;59:223",
+        "text": "6391 Elgin St. Celina, Delaware 102..."
+      },
+      {
+        "id": "I203:7;59:222",
+        "text": "My job"
+      },
+      {
+        "id": "I203:7;59:223",
+        "text": "3891 Ranchview Dr. Richardson, C..."
+      },
+      {
+        "id": "I203:8;59:222",
+        "text": "Add address"
+      },
+      {
+        "id": "I203:8;59:223",
+        "text": "Add new delivery address"
+      }
+    ]
+  },
+  {
+    "id": "203:101",
+    "name": "Payment method full",
+    "type": "FRAME",
+    "bounds": {
+      "x": -1147,
+      "y": -212,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 2,
+    "slug": "50_payment_method_full",
+    "texts": [
+      {
+        "id": "I203:104;2:152",
+        "text": "9:41"
+      },
+      {
+        "id": "I203:105;2:2755",
+        "text": "Payment method"
+      },
+      {
+        "id": "I203:107;59:222",
+        "text": "Apple Pay"
+      },
+      {
+        "id": "I203:107;59:223",
+        "text": "Pay with Face ID"
+      },
+      {
+        "id": "I203:108;59:222",
+        "text": "MasterCard • 7488"
+      },
+      {
+        "id": "I203:108;59:223",
+        "text": "01/25"
+      },
+      {
+        "id": "I203:109;59:222",
+        "text": "MasterCard • 1235"
+      },
+      {
+        "id": "I203:109;59:223",
+        "text": "03/24"
+      },
+      {
+        "id": "I203:110;59:222",
+        "text": "Add credit card"
+      },
+      {
+        "id": "I203:110;59:223",
+        "text": "Add new credit or debit card"
+      }
+    ]
+  },
+  {
+    "id": "209:1",
+    "name": "Loading screen",
+    "type": "FRAME",
+    "bounds": {
+      "x": -8829,
+      "y": -212,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 4,
+    "slug": "51_loading_screen",
+    "texts": [
+      {
+        "id": "I209:5;2:152",
+        "text": "9:41"
+      },
+      {
+        "id": "209:27",
+        "text": "Deliver.io"
+      }
+    ]
+  }
+]
